@@ -1,0 +1,3457 @@
+Aachen/Merzbruck (Aix-la-Chapelle), Germany:-6.19:50.83
+Aalborg, Denmark:-9.85:57.10
+Aalen-Heidenheim/Elchi, Germany:-10.27:48.78
+Abadan, Iran:-48.75:30.35
+Abakan, Russia:-91.17:53.67
+Abbotsford, BC, Canada:122.32:49.03
+Aberdeen Prv Gnd, MD, USA:76.17:39.23
+Aberdeen, ID, USA:112.83:42.95
+Aberdeen, MD, USA:76.16:39.51
+Aberdeen, SD, USA:98.48:45.47
+Aberdeen, Scotland, UK:2.20:57.20
+Aberdeen, WA, USA:123.80:47.00
+Aberswyth, Wales, UK:4.08:52.42
+Abidjan, Cote d_Ivoire:4.02:5.31
+Abilene, KS, USA:97.20:38.90
+Abilene, TX, USA:99.71:32.46
+Abu Dhabi, U.A.E:-54.38:24.45
+Abuja, Nigeria:-7.18:9.20
+Acapulco, Guerrero, Mexico:99.77:16.75
+Accra, Ghana:0.17:5.60
+Ada, MN, USA:96.53:47.28
+Adak, AK, USA:176.47:51.67
+Adams, MA, USA:73.17:42.58
+Adana, Turkey:-35.27:37.00
+Addis Ababa, Ethiopia:-38.73:9.00
+Adelaide, Australia:-138.54:-34.77
+Aden, Yemen:-45.00:12.80
+Afton, OK, USA:94.93:36.70
+Afton, WY, USA:110.87:42.70
+Agades (Agadez), Niger:-7.93:17.00
+Agadir, Morocco:9.92:30.47
+Agana NAS, Guam:-144.79:13.48
+Agua Preita, Sonora, Mexico:109.53:31.33
+Aguascalientes, Mexico:102.30:21.88
+Ahlhorn, Germany:-8.23:52.89
+Ahmedabad GS, India (AGS):-72.50:23.02
+Ahmedabad, India:-72.67:23.25
+Ahwahnee, CA, USA:119.42:37.25
+Aiken, SC, USA:81.72:33.53
+Ainsworth, NE, USA:99.85:42.53
+Aix-en-Provence, France:-5.45:43.53
+Ajaccio, Corsica, France:-8.73:41.92
+Ajo, AZ, USA:112.92:32.33
+Akordat, Eritrea:-37.67:15.50
+Akron, OH, USA:81.51:41.08
+Al Hasakah, Syria:-40.75:36.58
+Al Hirmil, Lebanon:-36.40:24.43
+Al Jawf, Libya:-23.40:24.17
+Al Jawf, Saudi Arabia:-39.87:29.83
+Al Manamah, Bahrain:-50.55:26.02
+Al Qunaytira, Syria:-35.75:32.92
+Al Rutbah, Iraq:-40.20:33.00
+Alameda, CA, USA:122.24:37.76
+Alamo, NV, USA:115.17:37.37
+Alamogordo, NM, USA:105.96:32.90
+Albany, GA, USA:84.16:31.58
+Albany, NY, USA:73.75:42.65
+Albany, OR, USA:123.10:44.63
+Albion, ID, USA:113.57:42.40
+Albuquerque, NM, USA:106.65:35.08
+Alcoa, TN, USA:84.00:35.75
+Aldermaston, England, UK:1.16:51.12
+Aleppo (Halab), Syria:-37.16:36.23
+Alert, NWT, Canada:62.28:82.52
+Alexander City, AL, USA:85.92:32.92
+Alexandria, Egypt:-29.95:31.19
+Alexandria, LA, USA:92.45:31.30
+Alexandria, VA, USA:77.05:38.80
+Algiers, Algeria:-3.22:36.70
+Alhambra, CA, USA:118.11:34.14
+Alicante, Spain:0.50:38.38
+Alice Springs, Australia:-133.90:-23.80
+Allen AAF, AK, USA:145.72:64.00
+Allentown, PA, USA:75.47:40.60
+Alliance, NE, USA:102.88:42.10
+Almaty (Alma Ata), Kazakhstan:-76.95:43.25
+Almeira, Spain:2.45:36.87
+Alpharetta, GA, USA:84.22:34.06
+Alpine, CA, USA:116.45:32.50
+Altenstadt, Germany:-10.87:47.83
+Altoona, PA, USA:78.40:40.52
+Amami Island, Japan:-129.70:28.25
+Amarillo, TX, USA:101.83:35.21
+Ambler, AK, USA:157.85:67.08
+Amchitka, AK, USA:179.26:51.38
+Amderma, Russia:-61.50:69.75
+American Falls, ID, USA:112.88:42.75
+Ames, IA, USA:93.62:42.03
+Amherst, OH, USA:82.22:41.40
+Amilcar Cabral, Cape Verde Islands:22.95:16.75
+Amman, Jordan:-35.95:31.95
+Ammassalik (Angmagssalik), Greenland, Denmark:37.33:65.67
+Amsterdam Island, France:-77.32:-37.52
+Amsterdam, Netherlands:-4.87:52.35
+An Uaimh (Navan), Ireland:6.67:53.65
+Anaconda, MT, USA:112.95:46.13
+Anadyr, Russia:-177.48:64.75
+Anaheim, CA, USA:117.91:33.84
+Anchorage, AK, USA:149.98:61.17
+Ancona, Italy:-13.50:43.62
+Andaman Islands, India:-93.00:12.00
+Anderson AFB, Guam:-144.94:13.59
+Anderson, IN, USA:85.68:40.17
+Anderson, SC, USA:82.66:34.51
+Andorra la Vela, Andorra:-1.50:42.50
+Andrews AFB, MD, USA:76.87:38.80
+Andros Town, Bahamas:77.78:24.72
+Angaur Island:-134.15:6.90
+Anguilla:63.08:18.25
+Ankara, Turkey:-32.90:40.03
+Ann Arbor, MI, USA:83.75:42.28
+Annapolis, MD, USA:76.50:38.97
+Annette Island, AK, USA:131.56:55.04
+Anniston, AL, USA:85.78:33.65
+Ansbach, Germany:-10.60:49.33
+Anse Royal, Mahe, Seychelles Islands:-55.52:-4.73
+Antalya, Turkey:-30.75:36.87
+Antananarivo (Tananarive), Madigascar:-30.70:-18.87
+Antelope Valley, CA, USA:118.20:34.45
+Antigua:61.78:17.13
+Antlers, OK, USA:95.63:24.23
+Antofagasta, Chile:70.60:-23.43
+Antsirabe, Madagascar:-47.03:-19.85
+Antsiranana (Diego Suarez), Madagascar:-49.28:-12.27
+Antwerp, Belgium:-4.40:51.22
+Apache Point, NM, USA:105.82:32.78
+Apia, Western Samoa:171.75:-13.80
+Appleton, WI, USA:88.42:44.26
+Aqaba, Jordan:-35.01:29.60
+Aqmola (Tselinograd), Kazakhstan:-71.50:51.17
+Aqtobe (Aktyubinsk), Kazakhstan:-57.17:50.28
+Ar Raqqah, Syria:-38.92:36.00
+Arad, Romania:-21.32:46.20
+Arcade-Arden, CA, USA:121.48:38.58
+Archer City, TX, USA:98.63:33.60
+Ardmore, OK, USA:97.13:34.17
+Arecibo, Puerto Rico:66.73:18.48
+Arequipa, Peru:77.55:-16.40
+Arese, Italy:-9.15:45.60
+Argyle, MN, USA:96.80:48.35
+Arica, Chile:70.33:-18.35
+Arivaca, AZ, USA:111.33:31.57
+Arkadelphia, AR, USA:93.08:34.10
+Arkhangelsk, Russia:-41.67:64.53
+Arlington Heights, IL, USA:87.98:42.09
+Arlington, MA, USA:71.15:42.42
+Arlington, TX, USA:97.11:32.74
+Arlington, VA, USA:77.10:38.90
+Armagh, Northern Ireland, UK:6.67:54.37
+Armavir, Russia:-41.12:45.03
+Armour, SD, USA:98.35:43.30
+Arnsberg, Germany:-7.90:51.48
+Artesia, NM, USA:104.40:32.85
+Arua, Uganda:-30.97:3.02
+Arusha, Tanzania:-36.67:-3.33
+Arvada, CO, USA:105.08:39.80
+As Suwayda, Syria:-36.50:32.67
+Ascension Island:14.42:-7.88
+Aschaffenburg AHP, Germany:-9.17:49.94
+Ash Fork, AZ, USA:112.48:35.22
+Ashdod, Israel:-34.58:31.82
+Asheville, NC, USA:82.56:35.59
+Ashgabat (Ashkhabad), Turkmenistan:-58.40:38.00
+Ashkhabad (Ashgabat), Turkmenistan:-58.40:38.00
+Ashland, KS, USA:99.77:37.18
+Ashland, KY, USA:82.64:38.48
+Ashland, ME, USA:68.43:46.62
+Ashley, ND, USA:99.38:46.05
+Asmara, Eritrea:-38.90:15.28
+Aspen, CO, USA:106.92:39.25
+Assab (Aseb), Eritrea:-42.67:13.00
+Astoria, OR, USA:123.85:46.18
+Astrakhan, Russia:-48.05:46.35
+Asuncion, Paraguay:57.52:-25.23
+Aswan, Egypt:-32.82:23.96
+Athens, GA, USA:83.38:33.96
+Athens, Greece:-23.63:38.00
+Athens, TN, USA:84.60:35.43
+Atkinson, NE, USA:98.97:42.53
+Atlanta, GA, USA:84.39:33.75
+Atlantic City, NJ, USA:74.43:39.36
+Atmore, AL, USA:87.52:31.02
+Atsugi USNAS, Japan:-139.45:35.47
+Attleboro, MA, USA:71.29:41.96
+Atuona, Hiva Oa, French Polynesia:139.03:-9.80
+Atyrau (Guryev), Kazakhstan:-50.00:47.08
+Auburn, AL, USA:85.48:32.61
+Auburn, ME, USA:70.23:44.10
+Auckland, New Zealand:-174.75:-36.88
+Augsburg/Muhlhausen, Germany:-10.93:48.43
+Augusta, AR, USA:91.35:35.27
+Augusta, GA, USA:81.97:33.47
+Augusta, ME, USA:69.77:44.31
+Aurora, CO, USA:104.87:39.74
+Aurora, IL, USA:88.31:41.76
+Aurora, MN, USA:92.28:47.52
+Austin, NV, USA:117.08:39.50
+Austin, TX, USA:97.74:30.27
+Avalon, Australia:-144.47:-38.03
+Avalon, Santa Catalina Island, CA, USA:-118.33:33.35
+Avarua, Rarotonga, Cook Islands:159.46:-21.14
+Aviano, Italy:-12.60:46.03
+Avon, CT, USA:72.83:41.67
+Ayase, Japan:-139.45:35.45
+Ayers Rock, Australia:-131.08:-25.38
+Aylesbury, UK:0.82:51.80
+Aztec, NM, USA:108.00:36.67
+Babelthuap Island:-134.55:7.36
+Babruysk (Bobruysk), Belarus:-29.25:53.17
+Bacolod, Negros, Philippines:-122.93:10.65
+Bad Hersfeld AHP, Germany:-9.71:50.84
+Bad Kissingen AAF, Germany:-10.12:50.20
+Bad Kreuznach AAF, Germany:-7.89:49.85
+Badajoz, Spain:6.98:38.83
+Baden-Baden, Germany:-8.19:48.79
+Badulla, Sri Lanka:-81.05:6.98
+Bagdad, AZ, USA:113.20:34.58
+Baghdad, Iraq:-44.37:33.23
+Bahia de los Cochinos (Bay of Pigs), Cuba:81.17:22.12
+Bahrain, U.A.E.:-50.63:26.27
+Baie-Comeau, PQ, Canada:68.18:49.14
+Baker, MT, USA:104.20:46.35
+Bakersfield, CA, USA:119.02:35.38
+Baku, Azerbaijan:-49.88:40.37
+Balabakk, Lebanon:-36.17:34.00
+Balboa, Panama:79.60:8.92
+Baldwin Park, CA, USA:117.96:34.07
+Bali, Indonesia:-115.17:-8.75
+Balikpapan, Kalimantan Borneo, Indonesia:-116.50:-1.17
+Balkhash, Kazakhstan:-74.98:46.82
+Baltimore, MD, USA:76.61:39.29
+Bambari, Central African Republic:-20.58:5.67
+Bamberg, Germany:-10.83:49.83
+Ban Me Thuot, Vietnam:-108.05:12.67
+Bandar Abbass, Iran:-56.38:27.22
+Bandar Lengeh, Iran:-54.82:26.53
+Bandar Seri Begawan, Brunei:-114.95:4.95
+Bandirma, Turkey:-27.97:40.31
+Banes, Cuba:75.70:21.00
+Banff, AB, Canada:115.55:51.18
+Bangalore, India:-77.30:13.80
+Bangassou, Central African Republic:-23.12:4.92
+Bangkok, Thailand:-100.48:13.83
+Bangor, ME, USA:68.77:44.80
+Bangui, Central African Republic:-18.62:4.38
+Baniyas, Syria:-36.00:35.17
+Banjul, Gambia:16.66:13.34
+Banska Bystrica, Slovakia:-19.23:48.77
+Bar Harbor, ME, USA:68.22:44.37
+Barabinsk, Russia:-78.33:55.33
+Baraboo, WI, USA:89.73:43.48
+Baracoa, Cuba:74.50:20.33
+Baranavichy, Belarus:-26.00:53.17
+Barbados:59.50:13.07
+Barcelona, Spain:-2.09:41.30
+Barhi, India:-85.42:24.25
+Bari, India:-77.65:26.65
+Bari, Italy:-16.87:41.10
+Barking Sands, Kauai, HI, USA:159.78:22.06
+Barnaul, Russia:-83.25:53.35
+Barnesville, OH, USA:81.19:40.00
+Barnsley, UK:1.48:53.55
+Barranquilla, Colombia:74.78:10.90
+Barre, VT, USA:72.50:44.20
+Barron, WI, USA:91.85:45.40
+Barrow, AK, USA:156.00:71.33
+Barstow, CA, USA:119.97:36.82
+Barth, Germany:-12.71:54.34
+Bartlesville, OK, USA:95.98:36.74
+Barton, VT, USA:72.08:44.75
+Base Line, OR, USA:122.45:45.52
+Basel, Switzerland:-7.50:47.55
+Basrah, Iran:-47.78:30.57
+Basse Terre, Guadeloupe:61.72:16.00
+Bastogne, Belgium:-5.72:50.02
+Bata, Equatorial Guinea:-9.82:1.85
+Batesburg, SC, USA:81.57:33.88
+Baton Rouge, LA, USA:91.18:30.45
+Battambang (Batdambang), Cambodia:-10.20:13.12
+Battle Creek, MI, USA:85.18:42.32
+Batumi, Georgia:-41.63:41.63
+Baumholder AAF, Germany:-7.30:49.65
+Bay City, MI, USA:83.89:43.60
+Bay St. Louis, MS, USA:89.33:30.32
+Bayonne, NJ, USA:74.12:40.67
+Bayqongyr (Baykonur), Kazakhstan:-65.83:47.80
+Bayreuth, Germany:-11.64:49.98
+Baytown, TX, USA:94.98:29.72
+Beach, ND, USA:104.00:46.92
+Beale AFB, CA, USA:121.43:39.13
+Bear Canyon Junction, AZ, USA:110.39:33.54
+Beatty, NV, USA:116.80:36.97
+Beaufort, SC, USA:80.67:32.42
+Beaumont, TX, USA:94.10:30.09
+Beaver, UT, USA:112.67:38.25
+Beaverton, OR, USA:122.81:45.49
+Beckley, WV, USA:81.19:37.78
+Bedford, UK:0.48:52.13
+Beersheba (Beer Sheva), Israel:-34.80:31.25
+Beeskow, Germany:-14.25:52.16
+Beirut, Lebanon:-35.50:33.88
+Beja, Portugal:7.92:38.15
+Belem, Brazil:48.48:-1.38
+Belen, NM, USA:106.75:34.67
+Belfast, Northern Ireland, UK:5.87:54.63
+Belgrade, Serbia:-20.53:44.80
+Belize City, Belize:88.30:15.53
+Belleville, IL, USA:89.98:38.52
+Bellevue, NE, USA:95.89:41.14
+Bellevue, WA, USA:122.20:47.62
+Bellflower, CA, USA:118.14:33.89
+Bellingham, WA, USA:122.48:48.75
+Bellows Falls, VT, USA:72.45:43.13
+Belmopan, Belize:88.77:17.42
+Belo Horizonte, Brazil:43.90:-19.75
+Belomorsk, Russia:-34.50:64.58
+Beltsy, Moldova:-28.00:47.80
+Ben Guerir, Morocco:7.88:32.13
+Ben Nevis Peak, Scotland, UK:5.00:56.80
+Bend, OR, USA:121.28:44.07
+Bendery, Moldova:-29.50:46.83
+Benghazi, Libya:-20.08:32.12
+Bennington, VT, USA:73.20:42.88
+Benson, AZ, USA:110.30:31.97
+Benton, AR, USA:92.59:34.56
+Berberati, Central African Republic:-15.67:4.25
+Berchtesgaden AHP, Germany:-12.97:47.62
+Bergamo, Italy:-9.67:45.70
+Bergen, Norway:-5.22:60.29
+Beringovskiy, Russia:-179.32:63.05
+Berkeley, CA, USA:122.27:37.87
+Berlin, Germany:-13.33:52.52
+Berlin, NH, USA:71.17:44.42
+Berlin-Tegel AP, Germany:-13.29:53.56
+Berlin-Tempelhof AP, Germany:-13.40:52.47
+Bermuda:64.68:32.37
+Bern, Switzerland:-7.42:46.92
+Bethel, AK, USA:161.75:60.79
+Bethesda, MD, USA:77.17:39.00
+Bethlehem, PA, USA:75.38:40.62
+Bethpage, NY, USA:73.50:40.75
+Bettendorf, IA, USA:90.59:41.61
+Bettles Field, AK, USA:151.80:66.97
+Beverly, UK:0.43:53.87
+Biak, Irian Jaya, Indonesia:-136.10:-1.17
+Biddeford, ME, USA:70.46:43.49
+Bien Hoa, Vietnam:-106.82:10.95
+Big Delta, AK, USA:145.80:64.13
+Big Lake, AK, USA:150.10:61.85
+Bihac, Bosnia:-15.95:44.82
+Bikini Atoll, Marshall Islands:-165.38:11.58
+Bilbao, Spain:2.93:43.27
+Billings, MT, USA:108.50:45.78
+Biloxi, MS, USA:88.88:30.40
+Binghamton, NY, USA:75.91:42.10
+Birmingham, AL, USA:86.81:33.52
+Birmingham, England, UK:1.88:52.48
+Bisbee, AZ, USA:109.92:31.45
+Bishkek (Frunze), Kyrgyzstan:-74.77:42.88
+Bismarck, ND, USA:100.79:46.81
+Bissau, Guinea-Bissau:15.65:11.87
+Bitburg, Germany:-6.57:49.94
+Biysk, Russia:-85.27:52.58
+Blackpool, England, UK:3.04:53.77
+Blackwell, OK, USA:97.32:36.78
+Blagoveshchensk, Russia:-127.50:50.32
+Bloemfontein, South Africa:-26.12:-29.10
+Bloomfield, NJ, USA:74.20:40.80
+Bloomington, IL, USA:88.99:40.48
+Bloomington, IN, USA:86.53:39.16
+Bloomington, MN, USA:93.28:44.82
+Blossom Point, MD, USA:77.08:38.43
+Bluefield, WV, USA:81.22:37.27
+Bluefields, Nicaragua:83.75:12.00
+Bluff, UT, USA:109.57:37.30
+Boblingen MAINT FAC AHP, Germany:-9.00:48.68
+Bobo-Dioulasso, Burkina Faso:4.30:11.18
+Bobruysk, Belarus:-29.25:53.17
+Boca Raton, FL, USA:80.09:26.35
+Bocas del Toro, Panama:82.33:9.25
+Bodo, Norway:-14.37:67.27
+Boehmer AAF (Hoppst.), Germany:-7.19:49.61
+Bogalusa, LA, USA:89.87:30.80
+Bogota, Colombia:74.10:4.63
+Boise City, OK, USA:102.50:36.70
+Boise, ID, USA:116.27:43.63
+Bologna, Italy:-11.29:44.54
+Bolzano, Italy:-11.33:46.50
+Bombay, India:-72.83:18.97
+Boneyard, AZ, USA:109.27:33.88
+Bonn, Germany:-7.08:50.72
+Bonn-Hardthoehe HP, Germany:-7.05:50.70
+Bonnie Lake, WA, USA:122.11:47.22
+Boone, NC, USA:81.66:36.20
+Booneville, KY, USA:83.67:37.42
+Boquillas, AZ, USA:110.23:31.77
+Bordeaux, France:0.62:44.83
+Bordentown, NJ, USA:74.67:40.08
+Borfink HP, Germany:-7.01:49.70
+Borinquen, Puerto Rico:67.13:18.50
+Borkum, Germany:-6.71:53.60
+Boscobel, WI, USA:90.73:43.13
+Bossangoa, Central African Republic:-17.50:6.58
+Bossier City, LA, USA:93.73:32.52
+Boston, MA, USA:71.06:42.36
+Bottingen AHP, Germany:-8.80:48.10
+Bou Arfa, Morocco:1.97:32.53
+Bouar, Central African Republic:-15.67:6.00
+Bouganville Island, Papua New Guina:-155.00:-6.00
+Boulder City, NV, USA:114.84:35.98
+Boulder Creek, CA, USA:122.15:37.05
+Boulder, CO, USA:105.28:40.01
+Bountiful, UT, USA:111.88:40.88
+Bouvet Island, Norway:-3.24:-54.26
+Bowie, AZ, USA:109.49:32.33
+Bowie, MD, USA:76.78:39.01
+Bowling Green, KY, USA:86.45:36.99
+Bowman, ND, USA:103.38:46.18
+Bozeman, MT, USA:111.04:45.68
+Bradshaw AAF, HI, USA:155.56:19.76
+Brandon, MB, Canada:99.95:49.85
+Brandon, VT, USA:73.08:43.75
+Brasilia, Brazil:47.92:-15.87
+Brasov, Romania:-25.58:45.67
+Bratislava, Slovakia:-17.17:48.17
+Bratsk, Russia:-101.80:56.08
+Brattleboro, VT, USA:72.56:42.85
+Braunschweig, Germany:-10.56:52.32
+Brazzaville, Congo:-15.23:-4.23
+Bremen, Germany:-8.79:53.05
+Bremerhaven AHP, Germany:-8.56:53.58
+Bremerton, WA, USA:122.63:47.57
+Bremgarten, Germany:-7.62:47.90
+Brest, Belarus:-23.67:52.17
+Brest, France:4.50:48.40
+Bria, Central African Republic:-21.97:6.50
+Bridgeport, CT, USA:73.19:41.18
+Bridgeton, NJ, USA:75.21:39.45
+Bridgetown, Barbados:59.62:13.10
+Brilliant, OH, USA:80.38:40.16
+Brindisi, Italy:-17.92:30.65
+Brisbane, Australia:-153.17:-27.50
+Bristol, CT, USA:72.95:41.67
+Bristol, England, UK:2.65:51.48
+Bristol, RI, USA:71.23:41.68
+Bristol, TN, USA:82.18:36.59
+Bristol, VT, USA:73.00:44.17
+Brize Norton, England, UK:1.59:51.75
+Brno, Czech Republic:-16.58:49.17
+Brockton, MA, USA:71.02:42.08
+Broken Arrow, OK, USA:95.80:36.05
+Broken Hill, NSW, Australia:-141.48:-31.97
+Brookings, OR, USA:124.27:42.07
+Brookings, SD, USA:96.79:44.31
+Brookline, NH, USA:71.40:42.46
+Brookline, MA, USA:71.12:42.33
+Brooklyn Park, MN, USA:93.38:45.10
+Brookside Park, DE, USA:75.72:39.67
+Broome, Australia:-122.25:-17.97
+Brownsville, TX, USA:97.50:25.92
+Brugge (Bruges), Belgium:-3.22:51.22
+Bruggen, Germany:-6.13:51.20
+Brunswick, GA, USA:81.50:31.13
+Brunswick, ME, USA:69.96:43.91
+Brussels, Belgium:-4.35:50.85
+Bryansk, Russia:-34.42:53.22
+Bucharest, Romania:-26.17:44.38
+Buchel, Germany:-7.06:50.17
+Buckeburg, Germany:-9.07:52.27
+Buckingham Palace, UK:0.13:51.50
+Budapest, Hungary:-19.25:47.43
+Budingen AHP, Germany:-9.09:50.28
+Buena Park, CA, USA:117.00:33.88
+Buenaventura, Colombia:77.07:3.88
+Buenaventura, Mexico:107.48:29.85
+Buenos Aires, Argentina:58.50:-34.33
+Buffalo, NY, USA:78.87:42.88
+Buffalo, WY, USA:106.70:44.32
+Bujumbura, Burundi:-29.35:-3.37
+Bukava, Zaire:-28.82:-2.50
+Bukhara, Uzbekistan:-64.42:39.80
+Bukoba, Tanzania:-31.82:-1.33
+Burbank, CA, USA:118.31:34.18
+Burgas, Bulgaria:-27.48:42.55
+Burlington, CO, USA:102.43:39.28
+Burlington, CT, USA:72.99:41.77
+Burlington, IA, USA:91.23:40.81
+Burlington, NC, USA:79.43:36.10
+Burlington, VT, USA:73.21:44.48
+Burlington, WA, USA:122.45:48.47
+Burns, OR, USA:119.08:43.58
+Bursa, Turkey:-29.08:40.25
+Burwash, YT, Canada:139.00:61.33
+Butte, MT, USA:112.54:46.02
+Butterworth, Malaysia:-100.40:5.47
+Butzweilerhof, Germany:-6.89:50.99
+CAPE Kennedy, FL, USA:80.57:28.47
+Caborca, Sonora, Mexico:112.17:30.67
+Cadiz, Spain:6.33:36.50
+Caen, France:0.37:49.17
+Caernarfon, UK:4.28:53.13
+Cagliari, Sardinia, Italy:-9.12:39.23
+Cairo, Egypt:-31.28:30.00
+Calais (Dunkirk), France:-1.95:50.96
+Calar Alto, Spain:-2.53:37.22
+Calaveras County, CA, USA:120.57:38.15
+Calcutta, India:-88.37:22.53
+Caldwell, ID, USA:116.69:43.66
+Calern, France:6.93:46.75
+Calgary, AB, Canada:114.08:51.05
+Cali, Colombia:76.58:3.42
+Caliente, NV, USA:114.50:37.63
+Cam Rahn, Vietnam:-109.20:11.90
+Camaguey, Cuba:77.92:21.42
+Cambridge, England, UK:-0.17:52.19
+Cambridge, MA, USA:71.11:42.37
+Cambridge, MD, USA:76.08:38.57
+Camden, NJ, USA:75.12:39.95
+Campeche, Campeche, Mexico:90.50:19.83
+Campo Grande, Brazil:55.00:-20.00
+Can Tho, Vietnam:-105.77:10.05
+Cananea, Sonora, Mexico:110.33:31.00
+Canberra, Australia:-149.17:-35.35
+Cancun, Quintana Roo, Mexico:86.75:21.13
+Cannes, France:-6.90:43.73
+Canoga Park, CA, USA:118.57:34.21
+Canton, OH, USA:81.38:40.80
+Cantonsville, MD, USA:76.61:39.29
+Canyon de Chelly Monument, AZ, USA:109.43:36.02
+Cape Canaveral, FL, USA:80.46:28.45
+Cape Girardeau, MO, USA:89.53:37.31
+Cape Hinchenbrook, AK, USA:146.65:60.24
+Cape May, NJ, USA:74.83:38.92
+Cape Svyatoy Nos, Russia(E):-140.70:72.87
+Cape Svyatoy Nos, Russia(W):-39.75:68.17
+Cape Town, South Africa:-18.47:-33.80
+Cape York, Australia:-142.33:-12.67
+Caracas, Venezuela:66.97:10.50
+Carbonado, WA, USA:122.05:47.08
+Carbondale, IL, USA:89.20:37.70
+Cardenas, Cuba:81.50:23.00
+Cardiff, Wales, UK:3.30:51.50
+Carlisle, UK:2.92:54.90
+Carlow, Ireland:6.97:52.83
+Carlsbad, CA, USA:117.34:33.19
+Carlsbad, NM, USA:104.23:32.42
+Carlton Vista, AZ, USA:109.15:33.70
+Carlton, MN, USA:92.43:46.67
+Carmarthen, UK:4.33:51.87
+Carmichael, CA, USA:121.33:38.67
+Carnarvon, Queensland, Australia:-147.75:-24.80
+Carnarvon, Western Australia, Australia:-113.70:-24.85
+Carnot, Central African Republic:-15.93:4.98
+Carrick-on-Shannon, Ireland:8.12:53.95
+Carrizozo, NM, USA:105.92:33.67
+Carrollton, GA, USA:84.08:33.58
+Carson City, NV, USA:119.77:39.17
+Carson, CA, USA:118.28:33.81
+Cartagena, Colombia:77.55:10.40
+Cartagena, Spain:0.98:37.60
+Cartago, Colombia:75.92:4.75
+Cartersville, GA, USA:84.78:34.15
+Cary, IL, USA:88.23:42.22
+Casa Grande, AZ, USA:111.75:32.88
+Casablanca, Morocco:7.68:33.53
+Casas Adobes, AZ, USA:110.99:32.32
+Casper, WY, USA:106.31:42.85
+Castlerock, WA, USA:122.88:46.28
+Castries, Saint Lucia:60.98:14.08
+Catalina AP, CA, USA:118.42:33.41
+Catalina Foothills, AZ, USA:0.00:32.30
+Catania, Sicily, Italy:-15.07:37.52
+Catanzaro, Italy:-16.63:38.90
+Cavan, Ireland:7.17:53.97
+Cave Creek, AZ, USA:111.90:33.78
+Cayenne, French Guiana:52.50:4.90
+Cebreros 62:4.37:40.45
+Cebu, Philippines:-123.90:10.30
+Cedar City, UT, USA:113.17:37.67
+Cedar Falls, IA, USA:92.45:42.52
+Cedar Rapids, IA, USA:91.66:41.97
+Celaya, Mexico:100.80:20.53
+Celle, Germany:-10.02:52.59
+Central Islip, NY, USA:73.20:40.79
+Centreville, MD, USA:76.08:39.08
+Cerritos, CA, USA:118.08:33.84
+Cerro Pachon, Chile:70.82:-30.35
+Cerro Paranal, Chile:70.45:-24.85
+Cerro Tololo, Chile:70.82:-30.17
+Ceske Budejovice, Czech Republic:-14.42:48.92
+Ceuta, Spain (Morocco):5.30:35.87
+Chagrin Falls, OH, USA:81.60:41.40
+Chah Bahar, Iran:-60.62:25.30
+Champaign, IL, USA:88.25:40.12
+Chandler, AZ, USA:111.84:33.31
+Chapel Hill, NC, USA:79.07:35.94
+Chardzhou, Turkmenistan:-64.57:39.10
+Charleroi, Belgium:-4.45:50.40
+Charleston, SC, USA:79.93:32.78
+Charleston, WV, USA:81.63:38.35
+Charlevoix, PQ, Canada:70.19:47.61
+Charlotte, NC, USA:80.85:35.23
+Charlottesville, VA, USA:78.42:38.00
+Chatham Islands:176.35:-44.00
+Chatham, NB, Canada:65.45:47.05
+Chattanooga, TN, USA:85.31:35.04
+Cheju, South Korea:-126.50:33.50
+Chelmsford, UK:-0.48:51.73
+Cheltenham, PA, USA:75.11:40.05
+Chelyabinsk, Russia:-61.40:55.17
+Cheraw, SC, USA:79.87:34.67
+Cherbourg, France:1.47:49.65
+Chernihiv (Chernigov), Ukraine:-31.30:51.50
+Cherokee, OK, USA:98.37:36.73
+Chesapeake, VA, USA:76.28:36.82
+Chester, CT, USA:72.48:41.41
+Chester, PA, USA:75.37:39.85
+Chester, UK:2.88:53.20
+Cheyenne, WY, USA:104.82:41.14
+Chiang Mai, Thailand:-98.97:18.76
+Chibougamau, PQ, Canada:74.38:49.90
+Chicago, IL, USA:87.64:41.87
+Chichester, UK:0.78:50.83
+Chiclayo, Peru:79.83:-6.78
+Chicopee, MA, USA:72.61:42.14
+Chicualacuala, Mozambique:-31.70:-22.10
+Chicxulub, Yucatan, Mexico (K-T impact site):89.52:21.13
+Chignik, AK, USA:158.20:56.23
+Chihuahua, Chihuahua, Mexico:106.05:28.67
+Chillicothe, IL, USA:89.50:41.92
+Chillicothe, MO, USA:93.53:39.77
+Chillicothe, OH, USA:83.00:39.33
+Chimolo, Mozambique:-33.50:-19.07
+Chincoteague, VA, USA:75.38:37.93
+Chinle, AZ, USA:109.55:36.15
+Chino Hills, CA, USA:117.70:34.02
+Chinook, MT, USA:109.25:48.58
+Chisinau (Kishinev), Moldova:-28.83:47.00
+Chita, Russia:-113.58:52.05
+Chitose, Japan:-141.67:42.80
+Chitre, Panama:80.45:7.98
+Chittagong, Bangladesh:-91.83:22.25
+Choluteca, Honduras:87.23:13.33
+Chongjin, North Korea:-129.92:41.77
+Choybalsan, Mongolia:-114.83:48.56
+Christchurch, New Zealand:-172.53:-43.48
+Christmas Island:157.37:1.98
+Chu Lai, Vietnam:-108.75:15.47
+Chukson, AZ, USA:111.80:31.91
+Chula Vista, CA, USA:117.08:32.64
+Chur, Switzerland:-9.53:46.85
+Churchill, MB, Canada:94.09:58.77
+Chuuk, Federated States of Micronesia:-151.84:7.46
+Cicero, IL, USA:87.74:41.85
+Cienfuegos, Cuba:80.50:22.17
+Cincinnati, OH, USA:84.51:39.10
+Circle, AK, USA:144.06:65.83
+Circleville, OH, USA:83.00:39.58
+Ciuadad de Carmen, Campeche, Mexico:91.83:18.63
+Ciudad Bolivar, Venezuela:63.60:8.08
+Ciudad Camargo, Chihuahua, Mexico:105.17:27.68
+Ciudad Guyana, Venezuela:62.67:8.37
+Ciudad Juarez, Chihuahua, Mexico:106.47:31.67
+Ciudad Obregon, Sonora, Mexico:109.98:27.47
+Claremont, NH, USA:72.34:43.38
+Clark, NJ, USA:74.00:40.75
+Clarksburg, WV, USA:80.35:39.28
+Clarksdale, MS, USA:90.58:34.20
+Clarksville, TN, USA:87.35:36.53
+Claymont, DE, USA:75.45:39.80
+Clear Lake City, TX, USA:95.08:29.53
+Clear, AK, USA:149.15:64.33
+Clearlake, CA, USA:122.60:38.93
+Clearwater, FL, USA:82.80:27.97
+Cleaveland, AZ, USA:109.28:33.72
+Clemente Peak, CA, USA:117.60:33.43
+Clermont-Ferrand, France:-3.07:45.77
+Cleveland, OH, USA:81.70:41.50
+Cleveland, TN, USA:84.88:35.17
+Clifton, AZ, USA:109.31:33.05
+Clifton, NJ, USA:74.15:40.88
+Clinton, IA, USA:90.19:41.84
+Clipperton Island, France:109.22:10.30
+Clonmel, Ireland:7.70:52.37
+Closter, NJ, USA:74.15:40.88
+Cloudcroft, NM, USA:105.45:32.58
+Clovis, NM, USA:103.20:34.40
+Cluj, Romania:-23.62:46.78
+Cobija, Bolivia:68.83:-11.00
+Cochabamba, Bolivia:66.17:-17.43
+Cochise, AZ, USA:109.92:32.11
+Cockeysville, MD, USA:76.67:39.50
+Cocos Islands:-96.83:-12.18
+Cody, WY, USA:109.03:44.52
+Cold Bay, AK, USA:162.72:55.20
+Cold Lake, AB, Canada:110.23:54.43
+Coleman AAF, Germany:-8.46:49.56
+College Park, MD, USA:76.94:38.99
+Collegedale, TN, USA:85.05:35.05
+Cologne, Germany:-6.95:50.93
+Colombo, Sri Lanka:-79.87:6.97
+Colon, Panama:79.90:9.37
+Colorado Springs, CO, USA:104.82:38.84
+Columbia Station, OH, USA:81.96:41.32
+Columbia, MO, USA:92.33:38.95
+Columbia, SC, USA:81.03:34.00
+Columbia, TN, USA:87.04:35.62
+Columbus, GA, USA:84.99:32.47
+Columbus, MS, USA:88.42:33.50
+Columbus, NE, USA:97.36:42.42
+Columbus, OH, USA:83.00:39.96
+Como, Italy:-9.08:45.80
+Comoro Islands, France:-44.00:-12.00
+Comox, BC, Canada:124.90:49.68
+Compton, CA, USA:118.23:33.90
+Con Son Island, Vietnam:-106.62:8.68
+Conakry, Guinea:13.72:9.50
+Concepcion, Chile:73.05:-36.77
+Concepcion, Paraguay:57.43:-23.37
+Concord, CA, USA:122.03:37.98
+Concord, NH, USA:71.54:43.21
+Condon, OR, USA:120.17:45.23
+Constanta, Romania:-28.52:44.17
+Conway, AR, USA:92.45:35.10
+Conway, NH, USA:71.17:44.00
+Cook Inlet, AK, USA:150.23:61.16
+Copenhagen, Denmark:-12.45:55.72
+Coralville, IA, USA:91.60:41.68
+Corbin, KY, USA:84.10:36.92
+Cordoba, Argentina:64.17:-31.42
+Cordoba, Mexico:96.93:18.88
+Cordoba, Spain:4.77:37.88
+Cordova, AK, USA:145.63:60.57
+Corinth, Greece:-22.92:37.90
+Corinth, MS, USA:88.50:34.92
+Cork, Ireland:8.47:51.90
+Corner Brook, Newfoundland, Canada:57.97:48.95
+Corning, IA, USA:94.67:40.97
+Corona Del Mar, CA, USA:117.88:33.59
+Corona de Tucson, AZ, USA:110.78:31.97
+Corpus Christi, TX, USA:97.38:27.65
+Corralitos, CA, USA:121.81:37.02
+Cortez, CO, USA:108.58:37.35
+Corumba de Goias, Brazil:48.83:-16.00
+Corumba, Brazil:57.50:-19.00
+Corvallis, OR, USA:123.27:44.57
+Cosenza, Italy:-16.23:39.28
+Costa Mesa, CA, USA:117.92:33.64
+Cotonou, Benin:-2.52:6.40
+Council Bluffs, IA, USA:95.86:41.26
+Covington, KY, USA:84.51:39.09
+Cozumel, Isla Cozumel, Quintana Roo, Mexico:86.92:20.52
+Cracow, Poland:-19.92:50.05
+Craiova, Romania:-23.77:44.30
+Cranbrook, BC, Canada:115.76:49.68
+Cranford, NJ, USA:74.22:40.66
+Cranston, RI, USA:71.44:41.78
+Crawford, NE, USA:103.42:42.68
+Cremona, Italy:-10.03:45.13
+Crestwood, KY, USA:85.45:38.14
+Crestwood, MO, USA:90.23:38.34
+Creve Coeur, IL, USA:89.61:40.64
+Cripple Creek, CO, USA:105.20:38.73
+Crocker, MO, USA:92.08:35.47
+Crofton, NE, USA:97.53:42.73
+Crown Valley Pkwy, CA, USA:117.72:33.50
+Crozet Islands, France:-52.00:-46.00
+Cruzeiro do Oeste, Brazil:53.07:-23.77
+Cruzeiro do Sul, Brazil:72.58:-7.58
+Cruzeiro, Brazil:45.00:-22.55
+Cubi Point, Luzon, Philippines:-120.17:14.80
+Cucuta, Colombia:72.52:7.90
+Cuernavaca, Mexico:99.25:18.95
+Cuiaba, Brazil:56.08:-15.53
+Cuidad Victoria, Tamaulipas, Mexico:99.13:23.73
+Culiacan, Sinaloa, Mexico:107.40:24.80
+Culver City, CA, USA:118.38:34.01
+Cumana, Venezuela:64.08:10.50
+Cumberland, MD, USA:78.76:39.65
+Curitiba, Brazil:49.27:-25.40
+Cut Bank, MT, USA:112.32:48.63
+Cuzco, Peru:71.95:-13.53
+Cwmbran, UK:3.05:51.65
+Czestochowa, Poland:-19.12:50.82
+DLR Oberpfaffenhofen, Germamy (DMO):-11.28:48.08
+Da Lat, Vietnam:-108.42:11.93
+Da Nang (Tourane), Vietnam:-108.23:11.93
+Dacca, Bangladesh:-90.40:23.85
+Dahlemer Benz AP, Germany:-6.53:50.41
+Dahn AHP, Germany:-7.73:49.15
+Dakar, Senegal:17.50:14.75
+Dalandzadgad, Mongolia:-104.50:43.58
+Dallas, TX, USA:96.79:32.79
+Dalsbruk, Finland:-22.48:60.01
+Daly City, CA, USA:122.46:37.70
+Damascus, Syria:-36.30:33.52
+Dana Point, CA, USA:117.71:33.46
+Danbury, CT, USA:73.46:41.39
+Danielson, CT, USA:71.88:41.79
+Danville, IA, USA:91.13:40.78
+Danville, VA, USA:79.38:36.59
+Dapaong, Togo:-0.20:10.87
+Dar es Salaam, Tanzania:-39.28:-6.80
+Darmstadt AAF, Germany:-8.56:49.86
+Darwin, Australia:-130.84:-12.43
+Davao, Mindanao, Philippines:-125.60:7.07
+Davenport, IA, USA:90.58:41.52
+David, Panama:82.50:8.50
+Davis, CA, USA:121.74:38.55
+Davis-Monthan AFB, AZ, USA:110.88:32.18
+Dayr az Zawr, Syria:-40.08:35.33
+Dayton, OH, USA:84.20:39.76
+Dayton, TN, USA:85.00:35.50
+Daytona Beach, FL, USA:81.02:29.21
+De Aar, South Africa:-24.00:-30.65
+DeMotte, IN, USA:87.17:41.20
+Deadhorse, AK, USA:148.46:70.12
+Dearborn Heights, MI, USA:83.29:42.33
+Dearborn, MI, USA:83.18:42.32
+Death Valley, CA, USA:116.88:36.46
+Decataur, IL, USA:88.95:39.84
+Decimomannu, Italy:-8.97:39.41
+Dehra Dun, India:-78.00:30.32
+Dekalb, IL, USA:88.71:41.93
+Del Rio, TX, USA:100.73:29.37
+Delavan, WI, USA:88.63:49.65
+Delhi, India:-77.22:28.90
+Delhi, LA, USA:91.48:32.43
+Delta Jct, AK, USA:145.72:64.03
+Delta, UT, USA:112.58:39.33
+Deming, NM, USA:107.77:32.27
+Denali National Park, AK, USA:148.94:63.71
+Denton, TX, USA:97.14:33.22
+Denver, CO, USA:104.99:39.75
+Derby, CT, USA:73.08:41.33
+Derby, England, UK:1.33:52.82
+Derry, NH, USA:71.32:42.88
+Des Moines, IA, USA:93.62:41.59
+Des Plaines, IL, USA:87.87:42.04
+Descanso, CA, USA:116.63:32.83
+Desiderio AAF, South Korea:-127.03:36.95
+Detmold, Germany:-8.91:51.94
+Detroit, MI, USA:83.05:42.33
+Deurle, Belgium:-3.62:51.00
+Devils Lake, ND, USA:98.86:48.11
+Devonport, Tasmania, Australia:-146.37:-41.17
+Dexheim AHP, Germany:-8.28:49.85
+Dhahran, Saudi Arabia:-50.15:26.26
+Dhaka (Dacca), Bangladesh:-90.40:23.85
+Diamond Bar, CA, USA:117.80:34.04
+Diamond Springs, CA, USA:120.82:38.70
+Dickinson, ND, USA:102.79:46.88
+Dickinson, TX, USA:95.08:29.47
+Diego Garcia Island:-72.40:-7.32
+Dien Bien, Vietnam:-103.00:21.33
+Diepholz, Germany:-8.34:52.58
+Dijon, France:-5.03:47.35
+Dili, Loro Sae, Indonesia:-125.57:-8.65
+Dili, Timor:-125.58:-8.55
+Dillingham, HI, USA:158.20:21.58
+Dillon, MT, USA:112.67:45.20
+Dillon, SC, USA:79.47:34.40
+Dimona, Israel:-35.02:31.03
+Diyarbakir, Turkey:-40.20:37.90
+Djakarta (Jakarta, Belgravia), Java, Indonesia:-106.85:-6.15
+Djibouti, Djibouti:-42.83:12.00
+Dnipropetrovsk (Dnepropetrovsk), Ukraine:-35.00:48.48
+Dobrich, Bulgaria:-28.00:44.00
+Dodge City, KS, USA:100.02:37.75
+Dodoma, Tanzania:-35.67:-6.17
+Doha, Qatar:-51.57:25.27
+Donaueschingen Villingen, Germany:-8.52:47.97
+Donetsk, Ukraine:-37.80:48.00
+Dong Van, Vietnam:-105.37:23.27
+Dorchester, UK:2.47:50.70
+Dortmund/Wickede, Germany:-7.61:51.52
+Dos Cabezas, AZ, USA:109.61:32.18
+Dothan, AL, USA:85.38:31.22
+Douala, Cameroon:-9.72:4.02
+Douglas, AZ, USA:109.54:31.34
+Douglas, Isle of Man, UK:4.48:54.15
+Dover AFB, DE, USA:75.47:39.13
+Dover, DE, USA:75.55:39.13
+Dover, FL, USA:82.26:27.97
+Dover, NH, USA:70.88:43.19
+Down Range Station, India (DRS):-92.80:9.15
+Downey, CA, USA:118.12:33.94
+Dragoon, AZ, USA:0.00:32.03
+Drake, AZ, USA:114.12:35.04
+Dresden, Germany:-13.77:51.13
+Drexel Heights, AZ, USA:111.03:32.14
+Dryden, ON, Canada:92.83:49.77
+Dubai, U.A.E.:-55.43:25.30
+Dublin, Ireland:6.25:53.43
+Dubrovnik, Croatia:-18.25:42.56
+Dubuque, IA, USA:90.68:42.50
+Ducie Island, UK:124.80:-24.67
+Dugas, AZ, USA:0.00:34.37
+Duluth, MN, USA:92.11:46.78
+Dumfries, UK:3.62:55.07
+Duncan, AZ, USA:109.11:32.72
+Dundalk, Ireland:6.42:54.02
+Dundalk, MD, USA:76.52:39.27
+Dundee, Scotland, UK:3.00:56.48
+Dunedin, New Zealand:-170.20:-45.93
+Dunkirk, France:-2.38:51.03
+Dunlap, IA, USA:95.55:41.88
+Durango, CO, USA:107.92:37.25
+Durango, Durango, Mexico:104.00:24.02
+Durban, South Africa:-31.00:-29.88
+Durham, NC, USA:78.91:36.00
+Durham, UK:1.57:54.78
+Dushanbe, Tajikistan:-68.48:38.35
+Dusseldorf, Germany:-6.75:51.28
+Dutch Harbor, AK, USA:166.54:53.91
+Dzerzhinsk, Russia:-43.50:56.25
+Dzhezkazgan, Kazakhstan:-67.45:47.88
+Eagan, MN, USA:93.22:44.83
+Eagle River, AK, USA:149.57:61.32
+Eagle, AK, USA:141.33:64.70
+Earth Center:0.00:0.00
+East Boston, MA, USA:71.05:42.34
+East Brunswick, NJ, USA:74.42:40.44
+East Lansing, MI, USA:84.48:42.74
+East Las Vegas, NV, USA:115.04:36.10
+East London, South Africa:-27.92:-33.00
+East Los Angeles, CA, USA:118.15:34.02
+East Orange, NJ, USA:74.21:40.76
+East Point, GA, USA:84.44:33.67
+East St. Louis, IL, USA:90.16:38.62
+East Stroudsburg, PA, USA:75.22:41.08
+East Wenatchee, WA, USA:120.05:47.20
+Eastampton, NJ, USA:74.40:39.58
+Eatonton, GA, USA:83.25:33.08
+Eau Claire, WI, USA:91.50:44.81
+Echo Bay (Port Radium), NWT, Canada:117.92:66.08
+Edina, MN, USA:93.35:44.88
+Edinburgh, Scotland, UK:3.17:55.95
+Edirne, Turkey:-26.57:41.67
+Edmond, OK, USA:97.48:35.65
+Edmonds, WA, USA:122.22:47.48
+Edmonton, AB, Canada:113.50:53.50
+Edmundston, NB, Canada:68.41:47.43
+Edna, TX, USA:96.68:28.98
+Edwards AFB, CA, USA:117.87:34.90
+Effingham, IL, USA:88.50:39.08
+Egelsbach, Germany:-8.64:49.96
+Eggebeck, Germany:-9.35:54.62
+Eglin AFB, FL, USA:86.29:30.28
+Eielson AFB, AK, USA:147.10:64.67
+El Cajon, CA, USA:116.96:32.79
+El Dorado, AR, USA:92.67:33.21
+El Mansura, Egypt:-31.38:31.05
+El Mirage, AZ, USA:112.34:33.59
+El Monte, CA, USA:118.02:34.07
+El Obeid, Sudan:-30.17:13.18
+El Paso, TX, USA:106.49:31.76
+El Rosarito, Baja California, Mexico:114.07:28.63
+Elat, Israel:-34.93:29.50
+Elba, Italy:-10.25:42.80
+Eldorado, IL, USA:88.50:37.83
+Eldoret, Kenya:-35.28:0.50
+Eldridge, IA, USA:90.59:41.61
+Elgin, IL, USA:88.29:42.04
+Elizabeth City, NC, USA:76.25:36.25
+Elizabeth, NJ, USA:74.22:40.66
+Elizabethtown, KY, USA:85.87:37.69
+Elk City, OK, USA:99.38:35.38
+Elk Point, SD, USA:96.73:42.68
+Elk River, ID, USA:116.18:46.78
+Elkhart, IN, USA:86.00:41.67
+Elkins, WV, USA:79.83:38.92
+Elko, NV, USA:115.76:40.83
+Ellsworth AFB, SD, USA:103.13:44.15
+Elmira, NY, USA:76.83:42.08
+Elsmere, DE, USA:75.59:39.74
+Elverson, PA, USA:75.86:40.15
+Elyria, OH, USA:82.11:41.36
+Emden, Germany:-7.22:53.39
+Emery AAF (Wurzburg), Germany:-9.90:49.82
+Encarnacion, Paraguay:55.83:-27.25
+Encinitas, CA, USA:117.30:33.07
+Enewetak (Eniwetok), Marshall Islands:-162.25:11.50
+Enfield, CT, USA:72.58:41.92
+Englewood, CO, USA:104.98:39.65
+English Turn, LA, USA (USCG DGPS REFSTA):89.94:29.88
+Enid, OK, USA:97.88:36.40
+Ennis, Ireland:8.98:52.85
+Ensenada, Baja California, Mexico:116.62:31.87
+Entebbe, Uganda:-32.45:0.05
+Ephrata, PA, USA:76.10:40.11
+Equator:86.66:0.00
+Erding, Germany:-11.95:48.32
+Erfurt, Germany:-10.96:50.98
+Erie, PA, USA:80.08:42.12
+Erlangen, Germany:-11.03:49.59
+Erzurum, Turkey:-41.25:39.95
+Escondido, CA, USA:117.08:33.12
+Esfahan, Iran:-51.86:32.75
+Esquel, Argentina:71.00:-43.00
+Essen/Muhlheim, Germany:-6.94:51.40
+Essex Junction, VT, USA:73.11:44.49
+Esteli, Nicaragua:86.37:13.15
+Etscorn Obervatory, NM, USA:106.92:34.07
+Euclid, OH, USA:81.54:41.57
+Eudora, AR, USA:91.27:33.12
+Eugene, OR, USA:123.09:44.05
+Eureka, CA, USA:124.17:40.75
+Eureka, NV, USA:115.97:39.55
+Eureka, UT, USA:112.17:39.92
+Evanston, IL, USA:87.68:42.04
+Evanston, WY, USA:111.03:41.03
+Evansville, IN, USA:87.57:37.97
+Everett, WA, USA:122.20:47.98
+Evergreen, CO, USA:105.42:39.64
+Ewa, Oahu, HI, USA:158.04:21.34
+Exeter, NH, USA:70.92:42.97
+Exeter, UK:3.52:50.72
+Fair Haven, VT, USA:73.25:43.58
+Fairbanks, AK, USA:147.85:64.80
+Fairfax, MN, USA:94.73:44.48
+Fairfax, SC, USA:81.22:32.48
+Fairfield, CA, USA:122.04:38.25
+Fairfield, CT, USA:73.26:41.14
+Fairmont Springs, BC, Canada:115.80:50.35
+Fairmont, WV, USA:80.14:39.48
+Faith, SD, USA:102.03:45.03
+Falcon, CO, USA:104.56:38.95
+Fall River, MA, USA:71.16:41.70
+Fallon, NV, USA:118.80:39.50
+Falmouth, KY, USA:84.33:38.67
+Famagusta, Cyprus:-33.95:35.12
+Fargo, ND, USA:96.79:46.88
+Farmington, NM, USA:108.20:36.73
+Farnborough, England, UK:0.76:51.28
+Farodofay (Fort-Dauphin), Madagascar:-47.00:-25.03
+Fassberg, Germany:-10.18:52.92
+Fayetteville, AR, USA:94.16:36.07
+Fayetteville, NC, USA:78.88:35.06
+Fderik, Mauritania:12.50:22.50
+Fergana, Uzbekistan:-71.32:40.38
+Ferriday, LA, USA:91.55:31.63
+Fez (Fes), Morocco:5.00:34.08
+Fianarantsoa, Madagascar:-47.08:-21.43
+Finningley, England, UK:1.00:53.47
+Firenze (Florence), Italy:-11.25:43.78
+Fischbach, Germany:-7.67:49.24
+Fisher, LA, USA:93.50:31.47
+Fitchburg, MA, USA:71.80:42.58
+Flagstaff, AZ, USA:111.65:35.19
+Flensburg/Schaferhaus, Germany:-9.38:54.77
+Flint, MI, USA:83.68:43.02
+Florala, AL, USA:86.32:31.02
+Florence, AL, USA:87.67:34.77
+Florence, AZ, USA:111.38:33.03
+Florence, SC, USA:79.77:34.20
+Florissant, MO, USA:90.49:38.80
+Flower Mound, TX, USA:97.07:33.03
+Foggia, Italy:-15.52:41.47
+Folsom, NM, USA:103.93:36.78
+Fond du Lac, WI, USA:88.48:43.78
+Ford Island, HI, USA:157.96:21.37
+Forrest City, AR, USA:90.77:35.00
+Forsyth, MT, USA:106.68:46.25
+Fort Albany, ON, Canada:81.58:52.25
+Fort Benning, GA, USA:84.83:32.37
+Fort Collins, CO, USA:105.08:40.58
+Fort Defiance, AZ, USA:109.07:35.74
+Fort Dodge, IA, USA:94.17:42.52
+Fort Greely, AK, USA:145.72:64.00
+Fort Huachuca, AZ, USA:110.33:31.55
+Fort Irwin, CA, USA:116.68:35.27
+Fort Lauderdale, FL, USA:80.14:26.12
+Fort McMurray, AB, Canada:111.27:56.73
+Fort McPherson, NWT, Canada:134.85:67.43
+Fort Myers, FL, USA:81.75:26.60
+Fort Nelson, BC, Canada:122.63:58.80
+Fort Payne, AL, USA:85.68:34.43
+Fort Portal, Uganda:-30.33:0.67
+Fort Richardson, AK, USA:149.65:61.26
+Fort Riley, KS, USA:96.77:39.08
+Fort Salonga, NY, USA:73.31:40.90
+Fort Scott, KS, USA:94.72:37.83
+Fort Severn, ON, Canada:87.67:56.00
+Fort Shevchenko, Kazakhstan:-51.33:43.67
+Fort Simpson, NWT, Canada:121.25:61.76
+Fort Smith, AR, USA:94.42:35.38
+Fort Wayne, IN, USA:85.14:41.07
+Fort William, Scotland, UK:5.12:56.82
+Fort Worth, TX, USA:97.33:32.75
+Fort Yukon, AK, USA:145.00:66.50
+Fort de France, Martinique, Windward Islands:61.08:14.60
+Fortaleza (Ceara), Brazil:38.30:-3.43
+Fortaleza, Brazil:38.30:-3.43
+Fountain Valley, CA, USA:117.96:33.70
+Foz do Cunene, Angola:-11.80:-17.25
+Foz do Gregorio, Brazil:70.73:-6.78
+Foz do Iguacu, Brazil:54.50:-25.50
+Framingham, MA, USA:71.42:42.27
+Frankfort, KY, USA:84.86:38.20
+Frankfurt, Germany:-8.57:50.03
+Franklin, NH, USA:71.67:43.42
+Franklin, TN, USA:86.90:35.90
+Frederick, MD, USA:77.42:39.42
+Fredericksburg, VA, USA:77.50:38.33
+Fredericktown, MO, USA:90.27:37.53
+Fredericton, NB, Canada:66.43:45.85
+Fredonia, AZ, USA:112.53:36.95
+Freehold, NJ, USA:74.27:40.25
+Freeport, Bahamas:78.70:26.55
+Freetown, Sierra Leone:13.28:8.50
+Freiburg, Germany:-7.84:48.02
+Fremont, CA, USA:121.96:37.54
+Fremont, NE, USA:96.50:41.44
+Frenchman Flat, NV, USA:116.00:36.90
+Fresno, CA, USA:119.77:36.74
+Friedrichshafen, Germany:-9.51:47.67
+Fritzlar, Germany:-9.29:51.12
+Fruitland Park, FL, USA:81.92:28.86
+Fuerte Olimpo, Paraguay:57.85:-21.00
+Fukuoka, Japan:-130.45:33.58
+Fulda AAF, Germany:-9.65:50.54
+Fullerton, CA, USA:117.92:33.88
+Funchal, Madeira Islands:16.77:32.69
+Furstenfeldbruck, Germany:-11.27:48.20
+Furth, Germany:-11.98:49.48
+Furth-Johnson BKS AHP, Germany:-10.99:49.45
+Gaborone, Botswana:-25.92:-24.75
+Gadsden, AL, USA:86.01:34.02
+Gaillac, France:-1.87:43.90
+Gainesville, FL, USA:82.25:29.70
+Gainesville, GA, USA:83.80:34.27
+Gaithersburg, MD, USA:77.20:39.14
+Galapagos Islands:90.30:-0.30
+Galena, AK, USA:156.95:64.74
+Gallup, NM, USA:108.74:35.52
+Galveston, TX, USA:94.80:29.30
+Galway, Ireland:9.07:53.27
+Ganca (Gyandzha), Azerbaijan:-46.33:40.75
+Gander, Newfoundland, Canada:54.57:48.93
+Garden City, KS, USA:100.87:37.97
+Garden Grove, CA, USA:117.91:33.78
+Garissa, Kenya:-39.67:0.42
+Garland, TX, USA:96.64:32.91
+Garland, UT, USA:112.17:41.75
+Garm, Tajikistan:-70.33:39.00
+Garrison, ND, USA:101.40:47.63
+Gars am Inn, Germany:-12.22:48.14
+Gary, IN, USA:87.34:41.60
+Gaspe, PQ, Canada:64.51:48.78
+Gassaway, WV, USA:80.75:38.67
+Gastonia, NC, USA:81.18:35.26
+Gatow, Germany:-13.14:52.48
+Gatun Locks, Panama Canal Zone:79.93:9.27
+Gdansk, Poland:-18.67:54.33
+Geilenkirchen, Germany:-6.03:50.96
+General Alvear, Mendoza, Argentina:67.67:-35.00
+Geneva, Switzerland:-6.07:46.23
+Genoa, Italy:-8.85:44.41
+Genova (Genoa), Italy:-8.85:44.41
+Gent (Gand), Belgium:-3.70:51.03
+Georgetow, Cayman Islands:81.38:19.30
+Georgetown, DE, USA:75.33:38.67
+Georgetown, Guyana:58.27:6.48
+Gera, Germany:-13.75:51.07
+Germersheim Res Stor Act, Germany:-8.35:49.23
+Gibraltar:5.35:36.15
+Giebelstadt AAF, Germany:-9.97:49.65
+Gila Bend, AZ, USA:112.72:32.95
+Gillette, WY, USA:105.50:44.29
+Gizhiga, Russia:-160.50:62.05
+Glace Bay, NS, Canada:59.95:46.20
+Glasgow, KY, USA:85.92:37.00
+Glasgow, Scotland, UK:4.42:55.90
+Glendale, AZ, USA:112.18:33.54
+Glendale, CA, USA:118.25:34.14
+Glendora, CA, USA:117.85:34.12
+Glenns Ferry, ID, USA:115.35:42.97
+Glenrothes, Scotland, UK:3.18:56.20
+Glens Falls, NY, USA:74.08:43.80
+Glenwood Springs, CO, USA:107.33:39.58
+Glenwood, MN, USA:95.38:45.65
+Globe, AZ, USA:110.79:33.39
+Glocester, UK:2.25:51.87
+Gobabis, Namibia:-19.00:-22.50
+Godthab, Greenland:51.68:64.20
+Goiania, Brazil:49.33:-16.72
+Goldfield, NV, USA:117.25:37.70
+Goldsboro, NC, USA:77.98:35.38
+Goldstone, CA, USA:116.88:35.35
+Gomel, Belarus:-31.00:52.47
+Goodwick, Wales, UK:5.00:52.00
+Goose Bay, Newfoundland, Canada:60.42:53.33
+Goose Creek, SC, USA:79.93:32.78
+Gorham, ME, USA:70.47:43.67
+Goteborg (Gothenburg), Sweden:-12.00:57.75
+Gough Island, UK:-10.00:-40.33
+Grafenwohr AHP (Main), Germany:-11.90:49.72
+Grafton, NJ, USA:72.00:43.60
+Granada Hills, CA, USA:118.50:34.18
+Grand Canyon, AZ, USA:112.14:36.05
+Grand Cayman Island:81.37:19.30
+Grand Forks, ND, USA:97.04:47.92
+Grand Island, NE, USA:98.35:40.92
+Grand Junction, CO, USA:108.58:39.08
+Grand Prairie, TX, USA:97.00:32.75
+Grand Rapids, MI, USA:85.67:42.97
+Grand Turk GTI-GTK:71.15:21.45
+Granger, WY, USA:109.97:41.62
+Grangeville, ID, USA:116.13:45.93
+Granite Falls, MN, USA:95.57:44.77
+Grants Pass, OR, USA:123.33:42.43
+Grass Valley, CA, USA:121.03:39.15
+Great Exuma Island, Bahamas:75.83:23.50
+Great Falls, MT, USA:111.28:47.50
+Great Falls, SC, USA:80.88:34.53
+Great Inagua Island, Bahamas:73.33:21.00
+Great Salt Lake, UT, USA:112.67:41.25
+Great Slave Lake, Canada:115.63:61.38
+Greeley, CO, USA:104.69:40.42
+Green Bay, WI, USA:88.01:44.51
+Green River, UT, USA:110.08:39.00
+Green River, WY, USA:109.47:41.53
+Green Valley, AZ, USA:110.99:31.85
+Greenbelt, MD, USA:-76.85:39.00
+Greensboro, NC, USA:79.79:36.07
+Greenville, ME, USA:69.58:45.43
+Greenville, MS, USA:91.06:33.41
+Greenville, SC, USA:82.40:34.85
+Greenville, TN, USA:82.83:36.13
+Greenwich Observatory, England, UK:0.00:51.47
+Greenwich, CT, USA:73.62:41.03
+Greenwood, MS, USA:90.18:33.52
+Greenwood, SC, USA:82.16:34.19
+Gremikha, Russia:-39.67:67.83
+Grenoble, France:-5.32:45.36
+Gresham, OR, USA:122.43:45.50
+Griffiss AFB, NY, USA:75.43:43.23
+Griffith Observatory, CA, USA:118.30:34.12
+Grissom AFB, IN, USA:86.15:40.65
+Grodno, Belarus:-23.87:53.70
+Groningen, Netherlands:-6.55:53.22
+Groom Lake, NV, USA (Area 51):115.79:37.24
+Grootfontein, Namibia:-18.10:-19.52
+Groton, SD, USA:98.07:45.42
+Grove Creek Observatory, Australia:-149.37:-33.85
+Groveton, NH, USA:71.50:44.58
+Groznyy, Russia:-45.75:43.33
+Guadalajara, Jalisco, Mexico:103.33:20.50
+Guantanamo Bay, Cuba:75.20:19.90
+Guatemala City, Guatemala:90.53:14.58
+Guayaquil, Ecuador:79.88:-2.27
+Guelph, ON, Canada:80.18:43.57
+Gulf of Oman:-58.00:25.00
+Gulfport, MS, USA:89.10:30.37
+Gulkana, AK, USA:145.50:62.10
+Gulu, Uganda:-32.28:2.80
+Gutersloh, Germany:-8.30:51.92
+Guthrie, OK, USA:97.43:35.87
+Gwynns Island, VA, USA:76.18:37.30
+Ha Tinh, Vietnam:-105.90:18.33
+Hagerstown, MD, USA:77.72:39.64
+Hahn AB, Germany:-7.26:49.95
+Haifa, Israel:-35.00:32.77
+Haiku, HI, USA:156.28:20.98
+Hailey, ID, USA:114.32:43.52
+Haines, AK, USA:135.46:59.25
+Haiphong, Vietnam:-106.68:20.78
+Halab, Syria:-37.25:36.17
+Halifax, NS, Canada:63.58:44.67
+Hambantota, Sri Lanka:-81.12:6.12
+Hamburg AP, Germany:-9.99:53.47
+Hamburg Finkenwerder, Germany:-9.83:53.54
+Hamburg, Germany:-10.03:53.57
+Hamden, CT, USA:72.90:41.38
+Hamilton, OH, USA:84.56:39.40
+Hamilton, ON, Canada:79.85:43.25
+Hammaguir, Algeria:3.30:30.80
+Hammond, IN, USA:87.50:41.63
+Hampton, VA, USA:76.34:37.02
+Hana, HI, USA:155.98:20.72
+Hanau AAF, Germany:-8.96:50.17
+Hancock, MI, USA:88.62:47.14
+Hankinson, ND, USA:96.90:46.07
+Hannah, ND, USA:98.70:48.97
+Hannibal, MO, USA:91.37:39.70
+Hannover, Germany:-9.68:52.46
+Hanoi, Vietnam:-105.87:21.02
+Hao AB, French Polynesia:141.00:-18.00
+Harlingen, TX, USA:97.70:26.18
+Harper Woods, MI, USA:82.92:42.40
+Harpers Ferry, WV, USA:77.75:39.33
+Harrington, DE, USA:75.58:38.92
+Harrisburg, PA, USA:76.88:40.26
+Harrisburg, SD, USA:96.68:43.42
+Harrison, AR, USA:93.10:36.22
+Harrisonburg, VA, USA:78.83:38.50
+Hartford, CT, USA:72.68:41.77
+Harvest, Al:86.68:34.80
+Harvey, ND, USA:99.92:47.77
+Hassayampa, AZ, USA:112.72:33.35
+Hassfurt, Germany:-10.53:50.02
+Hastings, NE, USA:98.39:40.59
+Hat Yai, Thailand:-100.40:6.94
+Hattiesburg, MS, USA:89.29:31.33
+Hauula, HI, USA:157.75:21.62
+Havana, Cuba:82.38:23.13
+Havre, MT, USA:109.69:48.55
+Hawthorne, CA, USA:118.35:33.92
+Hawthorne, NV, USA:118.65:38.55
+Hayward, CA, USA:122.08:37.66
+Hazard, KY, USA:83.17:37.22
+Heard Island, Australia:-74.00:-53.00
+Heidelberg AAF, Germany:-8.65:49.39
+Heilbronn AHP, Germany:-9.27:49.13
+Helena, MT, USA:112.04:46.59
+Helgoland, Germany:-7.90:54.18
+Helsinki, Finland:-24.83:60.17
+Henderson, KY, USA:87.59:37.84
+Henderson, NV, USA:114.98:36.04
+Hendersonville, TN, USA:86.62:36.30
+Herat, Afghanistan:-62.00:34.50
+Hermosillo, Sonora, Mexico:111.00:29.07
+Herndon, VA, USA:77.01:38.90
+Herstmonceux, England, UK:-0.33:50.87
+Hertford, UK:0.07:51.85
+Hialeah, FL, USA:80.28:25.83
+Hickam AFB, HI, USA:157.95:21.33
+Hickory, NC, USA:81.35:35.72
+Hidalgo del Parral, Chihuahua, Mexico:105.67:26.97
+Hidalgo, Nuevo Leon, Mexico:99.43:24.25
+High Point, NC, USA:80.00:35.95
+Highland Lakes, NJ, USA:74.45:41.16
+Highmore, SD, USA:99.43:44.50
+Hildesheim, Germany:-9.95:52.18
+Hill City, MN, USA:93.63:46.97
+Hillsboro, ND, USA:97.08:47.38
+Hillsboro, OR, USA:122.99:45.52
+Hilo, Hawaii, HI, USA:155.09:19.72
+Hims (Homs), Syria:-36.75:34.67
+Hinton, WV, USA:80.92:37.67
+Hiroshima, Japan:-132.45:34.50
+Hiva Oa Island:139.00:-9.45
+Ho Chi Minh City (Saigon) Vietnam:-106.40:10.45
+Hobart, Tasmania, Australia:-147.32:-42.88
+Hobbs, NM, USA:103.13:32.70
+Hohenfels AAF, Germany:-11.84:49.22
+Hohn, Germany:-9.54:54.31
+Holbrook, AZ, USA:110.16:34.90
+Holguin, Cuba:76.33:20.83
+Holler Observatory, CA, USA:121.50:37.42
+Hollis Hills, NY, USA:73.76:40.73
+Holliston, MA, USA:71.05:42.35
+Holly Springs, MS, USA:89.47:34.75
+Hollywood, CA, USA:118.34:34.12
+Hollywood, FL, USA:80.15:26.01
+Holyoke, MA, USA:72.61:42.21
+Homer, AK, USA:151.52:59.65
+Homyel (Gomel), Belarus:-31.00:52.47
+Hong Kong:-115.00:21.75
+Honiara, Guadalcanal, Solomon Islands:-159.75:-9.25
+Honington, England, UK:-0.77:52.33
+Honolulu, HI, USA:157.86:21.31
+Hooker, OK, USA:101.22:36.82
+Hooper Bay, AK, USA:166.03:61.33
+Hopkinsville, KY, USA:87.47:36.86
+Hopsten, Germany:-7.54:52.34
+Hot Springs Nat Pk, AR, USA:93.05:34.51
+Houma, LA, USA:90.72:29.60
+Houston, TX, USA:95.36:29.76
+Hradec Kralove, Czech Republic:-15.83:50.25
+Hrodna (Grodno), Belarus:-23.87:53.70
+Hue, Vietnam:-107.58:16.50
+Humboldt, NE, USA:95.95:40.17
+Huntington Beach, CA, USA:118.08:33.67
+Huntington Station, NY, USA:73.40:40.84
+Huntington, WV, USA:82.44:38.42
+Huntsville, AL, USA:86.59:34.73
+Hurley, WI, USA:90.18:46.43
+Huron, SD, USA:98.22:44.36
+Husum, Germany:-9.15:54.52
+Hutchinson, KS, USA:97.93:38.08
+Hutchinson, MN, USA:94.38:44.88
+Hyderabad, India:-78.43:17.37
+Hyderabad, Pakistan:-68.40:25.38
+Hyltebruk, Sweden:-13.10:57.00
+Iasi, Romania:-27.63:47.15
+Ibiza, Ibiza, Balearic Islands, Spain:-1.43:38.90
+Idaho Falls, ID, USA:112.03:43.49
+Idyllwild, CA, USA:116.72:33.73
+Illesheim AAF, Germany:-10.39:49.47
+Iloilo, Panay, Philippines:-122.53:10.75
+Inchon, South Korea:-126.63:37.50
+Incirlik, Turkey:-35.42:37.00
+Independence, KS, USA:95.70:37.23
+Independence, MO, USA:94.42:39.09
+Indianapolis, IN, USA:86.16:39.77
+Ine, Marshall Islands:-171.48:7.02
+Inglewood, CA, USA:118.35:33.96
+Ingolstadt, Germany:-11.35:48.72
+Inhambane, Mozambique:-35.50:-23.90
+Innsbruck, Austria:-11.34:47.26
+Inuvik, NWT, Canada:133.50:68.32
+Invercargill, New Zealand:-168.32:-46.42
+Inverness, Scotland, UK:4.25:57.45
+Iowa City, IA, USA:91.53:41.66
+Ipswich, Australia:-152.72:-27.63
+Ipswich, UK:-1.15:52.07
+Iqaluit, NWT, Canada:68.55:63.76
+Iquitos, Peru:73.25:-3.83
+Iraklion, Crete, Greece:-25.13:35.33
+Irbil, Iraq:-44.02:36.18
+Iringa, Tanzania:-35.72:-7.80
+Irkutsk, Russia:-104.20:52.16
+Iron River, MI, USA:88.65:46.15
+Irvine, CA, USA:117.76:33.68
+Irving, TX, USA:96.94:32.81
+Irvington, NJ, USA:74.22:40.73
+Isfahan, Iran:-51.67:32.70
+Isla Chatham:74.25:-50.40
+Isla Dawson, Chile:70.67:-54.00
+Isla La Orchila, Venezuela:66.15:11.80
+Isla de Guadalupe, Mexico:118.27:29.00
+Isla de Pascua (Easter Island), Chile:109.23:-27.08
+Isla de Sala-y-Gomez, Chile:105.47:-26.47
+Isla de San Ambrosio, Chile:79.88:-26.47
+Islamabad, Pakistan:-73.10:33.62
+Islas del Maiz, Nicaragua:83.07:12.25
+Isle of Corfu (Kerkira), Greece:-19.83:39.58
+Isle of Guernsey, Channel Islands, UK:2.60:49.43
+Isle of Jersey, Channel Islands, UK:2.12:49.22
+Isle of Man:4.63:54.08
+Isle of Rhodes, Greece:-28.00:36.20
+Isle of Wight, UK:1.29:50.67
+Isles Chesterfield, New Caledonia, France:-158.25:-19.87
+Istanbul, Turkey:-29.00:41.03
+Istrana, Italy:-12.13:45.74
+Itaborai, Brazil:42.87:-22.75
+Ittoqqortoormiit (Scoresbysund), Greenland, Denmark:23.00:70.33
+Itzehoe/Hungry Wulf, Germany:-9.58:53.99
+Ivano-Frankivsk, Ukraine:-24.67:48.67
+Iwo Jima, Japan:-141.32:24.78
+Izmir, Turkey:-27.13:38.42
+Jackson, MI, USA:84.41:42.25
+Jackson, MS, USA:90.18:32.30
+Jackson, TN, USA:88.81:35.62
+Jacksonville, AR, USA:92.11:34.86
+Jacksonville, FL, USA:81.66:30.33
+Jacob Lake, AZ, USA:112.22:36.71
+Jaffna, Sri Lanka:-80.00:9.67
+Jalalabad, Afghanistan:-70.42:34.43
+Jalapa Enriquez, Mexico:96.92:19.53
+Jaluit, Marshall Islands:-169.64:5.91
+Jamestown, ND, USA:98.70:46.90
+Janesville, WI, USA:89.02:42.68
+Jarvis Island, USA:160.03:-0.38
+Jasper, AB, Canada:118.05:53.00
+Jatiluhur, Java, Indonesia:-107.00:-6.52
+Jeddah, Saudia Arabia:-39.20:21.50
+Jefferson City, MO, USA:92.22:38.52
+Jelm Mountain, WY, USA:105.98:41.10
+Jensen Beach, FL, USA:80.25:27.25
+Jersey City, NJ, USA:74.07:40.73
+Jerusalem, Israel:-35.23:31.77
+Jever, Germany:-7.89:53.53
+Jicamarca radar, Peru:76.87:-11.93
+Jiddah, Saudi Arabia:-39.17:21.50
+Jinja, Uganda:-33.20:0.42
+Joao Pessoa (Paraiba), Brazil:34.87:-7.17
+Jodhpur, India:-73.13:26.30
+Johannesburg, South Africa:-27.90:-26.13
+Johnson City, TN, USA:82.35:36.32
+Johnston Atoll, USA:169.53:16.73
+Johnstown, PA, USA:78.92:40.33
+Joliet, IL, USA:88.08:41.53
+Jonesboro, AR, USA:90.71:35.84
+Joplin, MO, USA:94.51:37.09
+Jordan Lake NAVSPASUR Xmtr, AL, USA:86.26:32.66
+Jordan, AZ, USA:111.90:34.69
+Juan de Nova Island, France:-43.75:-17.05
+Jubayl, Lebanon:-35.65:34.08
+Julian, CA, USA:116.58:33.00
+Juneau, AK, USA:134.41:58.30
+Juticalpa, Honduras:86.20:14.67
+Kabul, Afghanistan:-69.22:34.57
+Kadena AB, Okinawa, Japan:-127.75:26.37
+Kaena Point, HI, USA:158.20:21.50
+Kagoshima, Japan:-130.53:31.62
+Kahului, HI, USA:156.47:20.88
+Kailua Kona, HI, USA:155.98:19.82
+Kalamazoo, MI, USA:85.59:42.29
+Kalapana, HI, USA:155.00:19.42
+Kalaupapa, HI, USA:156.98:21.21
+Kalgoorlie, Australia:-121.47:-30.75
+Kaliningrad (Koenigsberg), Russia:-20.50:54.67
+Kalispell, MT, USA:114.31:48.20
+Kamloops, BC, Canada:120.45:50.70
+Kamp-Lintfort, Germany:-6.54:51.53
+Kampala, Uganda:-32.58:0.31
+Kamuela, HI, USA:155.67:20.02
+Kanab, UT, USA:112.50:37.00
+Kananga, Zaire:-22.43:-5.88
+Kandahar (Qandahar), Afghanistan:-65.50:31.53
+Kandalaksha, Russia:-32.50:67.15
+Kaneohe Bay, Oahu, HI, USA:157.76:21.46
+Kankakee, IL, USA:87.88:41.12
+Kannapolis, NC, USA:80.63:35.50
+Kano, Nigeria:-8.52:12.05
+Kansas City, KS, USA:94.64:39.12
+Kapaa, Kauai, HI, USA:159.33:22.10
+Kapalua, HI, USA:156.68:20.97
+Kapuskasing, ON, Canada:82.50:49.42
+Kapustin Yar, Russia:-45.80:48.40
+Karachi, Pakistan:-67.15:24.90
+Karaganda (Qaraghandy), Kazakhstan:-73.11:49.88
+Karasburg, Namibia:-18.73:-28.00
+Karlovy Vary (Karlsbad), Czech Republic:-12.85:50.22
+Karlskrona, Sweden:-15.58:56.17
+Karlsruhe Forchheim, Germany:-8.34:48.98
+Kartaly, Russia:-60.67:53.05
+Kassel, Germany:-9.37:51.32
+Kathmandu, Nepal:-85.35:27.82
+Katima Mulilo, Namibia:-24.22:-17.47
+Katowice, Poland:-18.98:50.25
+Katsina, Nigeria:-7.53:13.00
+Kaunakakai, HI, USA:156.98:21.10
+Kavalur, India:-78.83:12.58
+Kayseri, Turkey:-35.50:38.75
+Kazan, Russia:-49.17:55.75
+Keahole, HI, USA:156.05:19.74
+Kearney, NE, USA:99.08:40.70
+Keene, NH, USA:71.28:42.93
+Keetmanshoop, Namibia:-18.13:-26.58
+Keflavik, Iceland:22.62:64.00
+Kekaha, HI, USA:159.70:21.95
+Kelso, WA, USA:122.88:46.15
+Kemerovo, Russia:-86.17:55.42
+Kenai, AK, USA:151.27:60.55
+Kennebunk, ME, USA:70.55:43.40
+Kenner, LA, USA:90.24:29.98
+Kenora, ON, Canada:94.35:49.80
+Kenosha, WI, USA:87.84:42.60
+Kerch, Crimea, Ukraine:-36.45:45.37
+Keren, Eritrea:-38.47:15.75
+Kerguellen Island, France:-69.10:-49.15
+Kermadec Island:178.25:-30.00
+Kerman, Iran:-57.08:30.30
+Kermanshah (Bakhtaran), Iran:-47.07:34.32
+Ketchikan, AK, USA:131.65:55.34
+Kettering, OH, USA:84.17:39.69
+Khabarovsk, Russia:-135.13:48.53
+Khania, Greece:-24.15:35.54
+Khankendy (Stepanakert), Nagorno-Karabakh, Azerbaijan:-46.42:39.67
+Kharagpur, India:-87.68:22.38
+Kharkiv (Kharkov), Ukraine:-36.25:50.00
+Khartoum, Sudan:-32.60:15.57
+Khatanga, Russia:-102.33:72.00
+Kherson, Ukraine:-32.58:46.58
+Khorog, Tajikistan:-71.60:37.50
+Khorramabad, Iran:-48.35:33.48
+Khorramshahr, Iran:-48.15:30.43
+Kiel, Germany:-10.13:54.32
+Kiel-Holtenau, Germany:-10.14:54.38
+Kigali, Rwanda:-30.08:-1.98
+Kigoma, Tanzania:-31.83:-1.02
+Kikwit, Zaire:-18.85:-5.03
+Kili, Marshall Islands:-169.12:5.65
+Kilkenny (Kelkenny), Ireland:7.28:52.67
+Kimball, NE, USA:103.68:41.23
+Kimberley, South Africa:-24.77:-28.72
+King George, VA, USA:77.02:38.20
+King Salmon, AK, USA:156.65:58.68
+Kingman, AZ, USA:114.08:35.17
+Kings Beach, Australia:-153.10:-26.80
+Kingsport, TN, USA:82.54:36.54
+Kingston upon Hull, UK:0.33:53.75
+Kingston upon Thames, UK:0.33:51.38
+Kingston, Jamaica:76.75:18.00
+Kingston, ON, Canada:76.60:44.22
+Kingstown, Saint Vincent and the Grenadines:61.17:13.17
+Kinshasa (Leopoldville), Zaire:-15.45:-4.38
+Kirensk, Russia:-107.92:57.83
+Kirkuk, Iraq:-44.43:35.47
+Kirkwall, Orkney Islands, UK:2.98:58.98
+Kirov (Vyatka), Russia:-49.67:58.58
+Kiruna, Sweden:-20.25:67.88
+Kirzhach, Russia:-38.87:56.15
+Kisangani, Zaire:-25.23:0.55
+Kiso, Japan:-137.63:35.80
+Kissimmee, FL, USA:81.42:28.28
+Kisumu, Kenya:-34.75:-0.10
+Kit Carson, CO, USA:102.80:38.77
+Kitakyushu, Japan:-130.83:33.88
+Kitchener, ON, Canada:80.33:43.25
+Kitt Peak, AZ, USA:111.35:31.46
+Kitzingen AAF, Germany:-10.20:49.74
+Klaipeda (Memel), Lithuania:-21.17:55.72
+Klamath Falls, OR, USA:121.82:42.22
+Kleingartach AHP, Germany:-9.02:49.12
+Knightdale, NC, USA:78.44:35.80
+Knoxville, TN, USA:83.92:35.96
+Koblenz//Winningen, Germany:-7.53:50.33
+Kochi, Japan:-133.50:33.30
+Kodiak, AK, USA:152.40:57.79
+Kohala, HI, USA:155.67:20.00
+Kokand, Uzbekistan:-70.92:40.55
+Koko Head, HI, USA:157.71:21.27
+Kokomo, IN, USA:86.33:40.50
+Koln/Bonn AB, Germany:-7.15:50.84
+Koln/Bonn, Germany:-7.14:50.87
+Koloa, HI, USA:159.45:21.89
+Komarno, Slovakia:-18.08:47.82
+Kompong Cham, Laos:-105.50:12.00
+Kompong Som, Cambodia:-103.50:10.63
+Komsomolsk-na-Amure, Russia:-136.98:50.53
+Kona, HI, USA:156.03:19.66
+Kontum, Vietnam:-108.00:14.40
+Konya, Turkey:-32.58:37.87
+Korat, Thailand:-102.08:14.94
+Koror, Palau:-134.50:7.50
+Kortrijk, Belgium:-3.28:50.83
+Kosice, Slovakia:-21.25:48.70
+Kosrae, Federated States of Micronesia:-162.98:5.37
+Kostroma, Russia:-40.97:57.83
+Kota Kinabalu, Malaysia:-116.05:5.94
+Kotlas, Russia:-47.00:61.25
+Kotzebue, AK, USA:162.60:66.90
+Kourou, French Guiana:52.77:5.23
+Krasnodar, Russia:-39.00:45.08
+Krasnovodsk, Turkmenistan:-53.00:40.02
+Krasnoyarsk, Russia:-92.77:56.08
+Kratie (Kracheh), Cambodia:-106.17:12.53
+Kreuzberg Kaserne AHP, Germany:-7.37:49.27
+Kriegsfeld AHP, Germany:-7.92:49.68
+Kuala Lumpur, Malaysia:-101.70:3.13
+Kuching, Malaysia:-110.33:1.49
+Kumasi, Ghana:1.58:6.75
+Kure Island:178.30:28.38
+Kurgan, Russia:-65.30:55.43
+Kursk, Russia:-36.23:51.75
+Kushka, Turkmenistan:-62.33:35.27
+Kutaisi, Georgia:-42.67:42.32
+Kuwait, Kuwait:-47.98:29.07
+Kuznetsk, Russia:-46.67:53.20
+Kvistaberg, Sweden:-17.60:59.50
+Kwajalein Atoll, Marshall Islands:-167.60:9.00
+Kwangju, South Korea:-126.87:35.12
+Kyoto, Japan:-135.77:35.00
+Kyustendil, Bulgaria:-22.68:42.27
+Kyzl-Orda, Kazakhstan:-65.47:44.80
+L_Aquila, Italy:-13.30:43.40
+La Coruna, Spain:8.40:43.37
+La Crosse, WI, USA:91.24:43.80
+La Grande, OR, USA:118.10:45.33
+La Grange, GA, USA:85.00:33.02
+La Jolla, CA (Soledad Mtn.):117.25:32.83
+La Mesa, CA, USA:117.04:32.77
+La Palma, Canary Islands:17.88:28.77
+La Palma, Panama:78.00:8.25
+La Paz, Baja California Sur, Mexico:110.30:24.17
+La Paz, Bolivia:68.18:-16.52
+La Rochelle, France:1.15:46.17
+La Silla, Chile:70.73:-29.27
+La Spezia, Italy:-9.83:44.13
+La Verne, CA, USA:117.78:34.08
+LaPeer, MI, USA:83.29:43.06
+Laarbruch, Germany:-6.14:51.60
+Laconia, NH, USA:71.47:43.53
+Lafayette, IN, USA:86.89:40.42
+Lafayette, LA, USA:92.02:30.22
+Lagos, Nigeria:-3.03:6.58
+Laguna Hills, CA, USA:117.72:33.62
+Laguna Niguel (Ritz Carlton):117.72:33.47
+Lahore, Pakistan:-74.30:32.00
+Lahr, Germany:-7.82:48.37
+Lajes, Azores:27.10:38.77
+Lake Charles, LA, USA:93.22:30.23
+Lake City, FL, USA:82.67:30.15
+Lake Issyk Kul, Kyrgyzstan:-77.25:42.42
+Lake Mead, NV, USA:114.50:36.20
+Lake Oswego, OR, USA:122.67:45.42
+Lake Taghkanic St. Park:73.75:42.05
+Lake Titicaca, Peru/Bolivia:69.50:-15.50
+Lake Villa, IL, USA:88.08:42.33
+Lake Village, AR, USA:91.28:33.33
+Lakeland, FL, USA:81.56:28.00
+Lakenheath, UK:0.52:52.42
+Lakewood, CA, USA:118.14:33.95
+Lakewood, CO, USA:105.08:39.74
+Lakewood, OH, USA:81.80:41.49
+Lakota, ND, USA:98.35:48.07
+Lamar, CO, USA:102.73:38.07
+Lanai City, HI, USA:156.93:20.83
+Lancaster, NH, USA:71.50:44.42
+Lancaster, PA, USA:76.31:40.04
+Lander, WY, USA:108.73:42.84
+Landsberg/Lech, Germany:-10.91:48.07
+Landstuhl AHP, Germany:-7.54:49.41
+Lansing, MI, USA:84.55:42.73
+Laramie, WY, USA:105.58:41.31
+Laredo, TX, USA:99.51:27.51
+Largo, FL, USA:82.79:27.92
+Las Campanas, Chile:70.70:-29.00
+Las Cruces, NM, USA:106.78:32.31
+Las Palmas, Canary Islands:15.38:27.93
+Las Vegas, NV, USA:115.14:36.17
+Lata, Manua Islands, American Samoa, USA:169.50:-14.25
+Latakia, Syria:-35.75:35.50
+Latham, Australia:-149.17:-35.35
+Latrobe, Tasmania, Australia:-146.50:-41.23
+Launceston, Tasmania, Australia:-147.13:-41.40
+Laupheim, Germany:-9.91:48.22
+Laurel, DE, USA:75.67:38.50
+Laurel, MD, USA:76.85:39.10
+Laurel, MS, USA:89.13:31.69
+Laval, PQ, Canada:73.61:45.50
+Laverton RAAFS, Australia:-144.75:-37.87
+Lawrence, KS, USA:95.24:38.96
+Lawrence, MA, USA:71.17:42.70
+Lawton, OK, USA:98.41:34.61
+Layton, UT, USA:111.96:41.06
+Le Havre, France:-0.12:49.52
+Learmonth, Australia:-114.08:-22.24
+Leavenworth, KS, USA:94.91:39.31
+Leavenworth, WA, USA:120.65:47.58
+Lebanon, KY, USA:85.25:37.53
+Lebanon, MO, USA:92.72:37.67
+Lebanon, NH, USA:72.25:43.67
+Lechfeld, Germany:-10.86:48.18
+Leck, Germany:-8.94:54.79
+Leeds, England, UK:1.55:53.80
+Leicester, UK:1.15:52.65
+Leighton BKS AHP, Germany:-9.98:49.79
+Leipheim, Germany:-10.24:48.44
+Leipzig, Germany:-12.22:51.41
+Lemmon, SD, USA:102.17:45.92
+Leon, Mexico:101.50:21.12
+Leon, Spain:5.92:42.67
+Lerwick, Shetland Islands, UK:1.17:60.17
+Lethbridge, AB, Canada:112.78:49.62
+Leticia, Colombia:70.00:-4.15
+Leutkirch Unterzell, Germany:-10.02:47.86
+Lewes, DE, USA:75.17:38.75
+Lewes, UK:-0.02:50.88
+Lewisburg, WV, USA:80.33:37.83
+Lewiston, ID, USA:117.02:46.41
+Lewiston, ME, USA:70.22:44.10
+Lewiston, NY, USA:79.00:43.17
+Lewistown, MT, USA:109.42:47.08
+Lexington, KY, USA:84.50:38.05
+Liberec, Czech Republic:-15.12:50.78
+Libreville, Gabon:-9.30:0.60
+Lichinga, Mozambique:-35.18:-13.22
+Liege, Belgium:-5.58:50.63
+Lifford, Ireland:7.50:54.83
+Lihue, HI, USA:159.38:21.98
+Likasi, Zaire:-26.78:-10.97
+Lille, France:-3.05:50.63
+Lilongue, Malawi:-33.65:-13.97
+Lima, OH, USA:84.11:40.74
+Lima, Peru:76.92:-12.10
+Limerick (Lemerick), Ireland:8.83:52.50
+Limoges, France:-1.25:45.83
+Lincoln Muni, NE, USA:96.76:40.85
+Lincoln, KS, USA:98.13:39.03
+Lincoln, ME, USA:68.52:45.38
+Lincoln, NE, USA:96.70:40.82
+Lincoln, UK:0.53:53.23
+Lindenhurst, NY, USA:73.36:40.70
+Lindi, Tanzania:-39.63:-9.97
+Linkoping, Sweden:-15.58:58.42
+Linz, Austria:-14.19:48.23
+Lira, Uganda:-32.95:2.28
+Lisbon, ND, USA:97.72:46.35
+Lisbon, Portugal:9.08:38.70
+Little Rock, AR, USA:92.28:34.74
+Littleton, NH, USA:71.75:44.25
+Lively Island:58.30:-52.02
+Livermore, CA, USA:121.77:37.68
+Liverpool, England, UK:2.87:53.42
+Livingston, AL, USA:88.15:32.58
+Livingston, MT, USA:110.56:45.66
+Livonia, MI, USA:83.38:42.38
+Livorno (Leghorn), Italy:-10.30:43.53
+Ljubljana, Slovenia:-14.47:46.07
+Llandrindod Wells, UK:3.38:52.25
+Llano del Hato, Venezula:70.87:8.78
+Loch Ness, Scotland, UK:4.50:57.27
+Lockwood Valley, CA, USA:119.05:34.45
+Lodwar, Kenya:-35.60:3.12
+Logan, UT, USA:111.83:41.74
+Lolo, MT, USA:114.08:46.75
+Lom, Bulgaria:-23.20:43.80
+Lome, Togo:-1.35:6.17
+Lompoc, CA, USA:120.45:34.68
+London, England, UK:0.12:51.50
+London, ON, Canada:81.25:43.00
+Long Beach, CA, USA:118.19:33.77
+Longford, Ireland:7.83:53.72
+Longview, TX, USA:94.73:32.49
+Longview, WA, USA:123.00:46.10
+Lorain, OH, USA:82.18:41.47
+Lord Howe Island, Australia:-159.10:-31.55
+Lordsburg, NM, USA:108.75:32.33
+Loring, AK, USA:131.63:55.60
+Los Alamos, NM, USA:106.33:35.88
+Los Altos Hills, CA, USA:122.12:37.34
+Los Angeles, CA, USA:118.24:34.05
+Louisville, GA, USA:82.39:32.99
+Louisville, KY, USA:85.76:38.25
+Loveland, CO, USA:105.06:40.21
+Lovelock, NV, USA:118.62:40.17
+Lowell, MA, USA:71.32:42.64
+Luanda, Angola:-13.25:-8.80
+Luang Prabang (Louangphrabang), Laos:-102.17:19.87
+Lubbock, TX, USA:101.84:33.58
+Lubeck Blankensee, Germany:-10.72:53.81
+Lucenec, Slovakia:-19.70:48.30
+Lucerne (Luzern), Switzerland:-8.30:47.05
+Luderitz, Namibia:-15.17:-26.63
+Ludwigsburg AAF, Germany:-9.22:48.86
+Ludwigshafen, Germany:-8.38:49.48
+Lugano, Switzerland:-8.97:46.02
+Luhansk (Lugansk), Ukraine:-39.33:48.57
+Lulea, Sweden:-22.17:65.58
+Lumumbashi, Zaire:-27.48:-11.68
+Lusaka, Zambia:-28.45:-15.33
+Lutsk, Ukraine:-25.33:50.73
+Luxembourg City, Luxembourg:-6.20:49.62
+Lviv (Lvov), Ukraine:-24.05:49.83
+Lynchburg, VA, USA:79.14:37.42
+Lynden, WA, USA:122.45:48.93
+Lynn Haven, FL, USA:85.67:30.25
+Lynn, MA, USA:70.95:42.46
+Lyon, France:-4.87:45.73
+MU radar, Shigaraki, Shiga, Japan:-136.10:34.85
+Maastricht, Netherlands:-5.72:50.87
+Macao:-113.00:22.00
+Machu Picchu Base, Antarctica:58.47:-62.10
+Mackay, ID, USA:113.63:43.92
+Macon, GA, USA:83.63:32.84
+Macquarie Island, Australia:-158.55:-54.36
+Madelia, MN, USA:94.38:44.05
+Madison, AL, USA:86.76:34.69
+Madison, SD, USA:97.11:44.01
+Madison, WI, USA:89.38:43.07
+Madras, India:-80.18:13.00
+Madrid, Spain:3.70:40.43
+Magadan, Russia:-150.83:59.63
+Magdalena, NM, USA:107.75:34.17
+Magnitogorsk, Russia:-59.08:53.45
+Magnolia, AR, USA:93.23:33.26
+Mahajanga (Majunga), Madagascar:-46.32:-15.72
+Mahilyow (Mogilev), Belarus:-30.30:53.92
+Mahon, Menorca, Balearic Islands, Spain:-4.27:39.88
+Maidstone, UK:-0.52:51.27
+Maiquetia, Venezuela:66.98:10.60
+Majuro, Majuro, Marshall Islands:-171.27:7.06
+Makasar (Macassar), Sulawesi, Indonesia:-119.40:-5.12
+Makhachkala, Russia:-47.50:43.00
+Malabar, FL, USA:80.57:28.00
+Malaga , Spain:4.97:36.63
+Malden, MA, USA:71.07:42.42
+Male, Maldives :-73.00:4.00
+Malibu, CA, USA:118.67:34.03
+Malindi, Kenya:-40.08:-3.20
+Malmo, Sweden:-13.00:55.58
+Maloelap, Marshall Islands:-171.23:8.71
+Malone, NY, USA:74.33:44.83
+Malta:-14.48:35.87
+Manado, Sulawesi (Celebes), Indonesia:-124.85:1.48
+Managua, Nicaragua:86.27:12.17
+Manaus, Brazil:60.05:-3.03
+Manchester, CT, USA:72.52:41.78
+Manchester, England, UK:2.23:53.47
+Manchester, NH, USA:71.46:42.99
+Mandalay, Myanmar (Burma):-96.07:21.95
+Mandan, ND, USA:100.90:46.83
+Mandera, Kenya:-41.85:3.92
+Mangum, OK, USA:99.52:34.90
+Manhattan Beach, CA, USA:118.40:33.90
+Manhattan, KS, USA:96.58:39.18
+Manila, Luzon, Philippines:-121.00:14.62
+Manitowoc, WI, USA:87.70:44.08
+Mannheim, Germany:-8.50:49.47
+Manokwari, Irian Jaya, Indonesia:-134.00:-0.90
+Mansfield, OH, USA:82.52:40.76
+Manton, CA, USA:121.77:40.46
+Mantorville, MN, USA:92.45:44.05
+Manzanillo, Cuba:77.52:20.33
+Manzanillo, Mexico:104.33:19.00
+Maputo, Mozambique:-32.58:-25.97
+Mar del Plata, Argentina:57.50:-38.00
+Maracaibo, Venezuela:71.62:10.73
+Maracay, Venezuela:67.60:10.25
+Maramba, Zambia:-25.88:-17.83
+Maribor, Slovenia:-15.65:46.55
+Marietta, GA, USA:84.55:33.95
+Marion Mtn Campground, CA, USA:116.73:33.79
+Marion, VA, USA:81.55:36.80
+Marlton, NJ, USA:74.92:39.88
+Marquette, MI, USA:87.42:46.53
+Marrakesh, Morocco:8.00:31.82
+Marsabit, Kenya:-30.00:2.30
+Marseille, France:-5.42:43.30
+Marshall, TX, USA:94.38:32.55
+Martinsburg, WV, USA:78.00:39.50
+Martinsville, VA, USA:79.88:36.67
+Mary, Turkmenistan:-61.83:37.60
+Masaka, Uganda:-31.75:-0.35
+Masbate, Masbate, Philippines:-123.63:12.30
+Maseru, Lesotho:-27.48:-29.31
+Mashad, Iran:-59.57:36.27
+Mashpee, MA, USA:70.51:42.50
+Mason City, IA, USA:93.23:43.13
+Massawa (Mitsiwa), Eritrea:-39.42:15.58
+Massweiler Depot AHP, Germany:-7.55:49.27
+Matagalpa, Nicaragua:85.97:13.00
+Matamoros, Tamaulipas, Mexico:97.50:25.88
+Matlock, UK:1.53:58.13
+Mauldin, SC, USA:82.30:34.80
+Mauna Kea Peak, Hawaii, HI, USA:155.47:19.82
+Maurice Rose AHP, Germany:-8.66:50.18
+Mayaguez, Puerto Rico:67.15:18.25
+Maysville, KY, USA:83.75:38.58
+Mazatlan, Sinaloa, Mexico:106.43:23.35
+Mazyr (Mozyr), Belarus:-29.25:51.98
+Mbabane, Swaziland:-31.13:-26.33
+Mbala (Abercorn), Zambia:-31.40:-8.77
+Mbale, Uganda:-34.20:1.13
+Mbandaka, Zaire:-18.47:0.33
+Mbarara, Uganda:-30.67:-0.58
+Mbeya, Tanzania:-33.48:-8.90
+Mbuji Mayi, Zaire:-23.65:-6.17
+Mc Alester, OK, USA:95.75:34.92
+Mc Cook, NE, USA:100.62:40.22
+Mc Gill, NV, USA:114.78:39.42
+Mc Kee BKS AHP, Germany:-10.03:49.15
+Mc Nary, LA, USA:92.53:30.97
+McAllen, TX, USA:98.23:26.20
+McDonald Island, Australia:-73.00:-53.00
+McGrath, AK, USA:155.60:62.90
+McKeesport, PA, USA:79.85:40.35
+McLean, VA, USA:77.15:38.92
+McNary, AZ, USA:109.85:34.07
+McNeal, AZ, USA:109.67:31.60
+Mecca, Saudi Arabia:-39.82:21.45
+Medan, Sumatra, Indonesia:-98.63:3.67
+Medellin, Colombia:75.60:-6.25
+Medford, MA, USA:71.11:42.42
+Medford, OR, USA:122.87:42.32
+Medicine Hat, AB, Canada:110.73:50.03
+Medina, Saudi Arabia:-39.60:24.47
+Medvezhiye Ozera, Russia:-37.98:55.87
+Meinerzhagen, Germany:-7.60:51.10
+Melbourne, Australia:-145.13:-37.87
+Melbourne, FL, USA:80.62:28.08
+Melilla, Spain (Morocco):2.95:35.35
+Melksham, England, UK:-2.08:51.22
+Melo, Uruguay:54.17:-32.33
+Melrose Park, IL, USA:87.64:41.88
+Memmingen, Germany:-10.24:47.99
+Memphis, TN, USA:90.05:35.15
+Mena, AR, USA:94.15:34.58
+Mendig, Germany:-7.32:50.37
+Mendoza, Argentina:68.83:-32.90
+Mengen, Germany:-9.37:48.05
+Meppen, Germany:-7.33:52.72
+Merauke, Irian Jaya, Indonesia:-140.40:-8.48
+Mercedes, Uruguay:58.00:-33.20
+Meredith, NH, USA:71.58:43.58
+Merida, Spain:6.42:38.92
+Merida, Yucatan, Mexico:89.62:20.97
+Meriden, CT, USA:72.79:41.54
+Meridian, MS, USA:88.70:32.37
+Meridianville, AL, USA:86.55:34.77
+Merrimack, NH, USA:70.81:42.82
+Merritt Island, FL, USA:80.70:28.38
+Merseyside, UK:2.92:53.42
+Mesa, AZ, USA:111.83:33.42
+Mesquite, TX, USA:96.60:32.76
+Messina, South Africa:-30.08:-22.33
+Metairie, LA, USA:90.18:30.00
+Meteor Crater, AZ, USA:111.03:35.03
+Meteorite Crater, NV, USA:115.68:38.72
+Meudon, France:-2.23:48.80
+Mexico City, DF, Mexico:99.15:19.47
+Mexico, MO, USA:91.83:39.17
+Mezen, Russia:-44.33:65.83
+Miami Beach, FL, USA:80.13:25.79
+Miami, FL, USA:80.19:25.78
+Miass, Russia:-60.10:54.98
+Midas, NV, USA:116.83:41.25
+Middlebury, VT, USA:73.17:44.00
+Middletown, DE, USA:75.67:39.50
+Midland, TX, USA:102.08:32.00
+Midway Island:177.38:28.20
+Midwest City, OK, USA:97.39:35.45
+Miesau Depot AHP, Germany:-7.44:49.39
+Milan, Italy:-9.20:45.48
+Milbank, SD, USA:96.63:45.22
+Milford, CT, USA:73.06:41.22
+Milford, DE, USA:75.42:38.92
+Milford, NH, USA:71.72:42.82
+Milford, UT, USA:113.08:38.33
+Mili, Marshall Islands:-171.73:6.08
+Milledgeville, GA, USA:83.25:33.08
+Miller, SD, USA:99.00:44.52
+Millinocket, ME, USA:68.73:45.67
+Millville, NJ, USA:75.08:39.37
+Milpitas, CA, USA:122.03:37.38
+Milwaukee, WI, USA:87.90:43.04
+Minas, Uruguay:55.17:-34.33
+Mine Hill, NJ, USA:74.61:40.88
+Minneapolis, MN, USA:93.26:44.98
+Minnetonka, MN, USA:93.44:44.94
+Minot, ND, USA:101.30:48.24
+Minsk, Belarus:-27.50:53.85
+Miquelon Island:56.40:47.10
+Miramar NAS, CA, USA:117.15:32.87
+Miramar, FL, USA:80.15:26.01
+Mirnyy Station, Antarctica:-93.00:-66.33
+Misawa, Japan:-141.40:40.68
+Mishawaka, IN, USA:86.18:41.71
+Misratah, Libya:-15.05:32.40
+Mississauga, ON, Canada:79.46:43.59
+Missoula, MT, USA:114.01:46.86
+Mitchell, SD, USA:98.02:43.54
+Mitu, Colombia:70.05:1.13
+Mo-i-Rana, Norway:-14.20:66.33
+Mobile, AL, USA:88.04:30.67
+Mobridge, SD, USA:100.43:45.53
+Mockau, Germany:-12.41:51.40
+Modesto, CA, USA:121.00:37.64
+Moenkopi, AZ, USA:111.22:36.12
+Mogadishu, Somalia:-45.35:2.03
+Mogilev, Belarus:-30.30:53.92
+Mojave City, AZ, USA:114.62:35.04
+Mold, UK:3.17:53.17
+Moline, IL, USA:90.51:41.51
+Mollusc, VA, USA:76.32:37.44
+Molokai, HI, USA:157.10:21.16
+Mombasa, Kenya:-39.67:-4.07
+Monaco, Monaco:-7.78:43.72
+Monaghan, Ireland:6.97:54.25
+Monchengladbach, Germany:-6.50:51.23
+Moncton, NB, Canada:64.67:46.11
+Monroe, LA, USA:92.12:32.50
+Monrovia, Liberia:10.35:6.25
+Mons, Belgium:-3.97:50.45
+Mont Gros, France:-7.30:43.72
+Mont-Joli, PQ, Canada:68.22:48.60
+Montauk Point, NY, USA (USCG DGPS REFSTA):71.86:41.07
+Montebello, CA, USA:118.10:34.00
+Montego Bay, Jamaica:77.92:18.50
+Monterey Park, CA, USA:118.13:34.06
+Monterey, CA, USA:121.88:36.60
+Monterrey, Nuevo Leon, Mexico:100.50:25.67
+Montevideo, Uruguay:56.17:-34.83
+Montgomery, AL, USA:86.31:32.38
+Monticello, IN, USA:88.58:40.08
+Monticello, ME, USA:67.88:46.32
+Monticello, UT, USA:109.42:37.92
+Montour Falls, NY, USA:76.79:42.34
+Montpelier, IN, USA:85.33:40.58
+Montpelier, VT, USA:72.58:44.26
+Montpellier, France:-3.88:43.63
+Montreal, Quebec, Canada:73.58:45.50
+Moore, OK, USA:97.49:35.34
+Moose Jaw, SK, Canada:105.53:50.37
+Mopti, Mali:4.17:14.48
+Morehead, KY, USA:83.42:38.17
+Morgan City, LA, USA:91.21:29.70
+Morgantown, WV, USA:79.95:39.63
+Moron AB, Spain:5.61:37.18
+Moron, Cuba:78.65:22.13
+Moroto, Uganda:-34.70:2.47
+Morpeth, UK:1.68:55.18
+Morristown, NJ, USA:74.48:40.80
+Morristown, TN, USA:83.30:36.17
+Morrow, GA, USA:84.33:33.59
+Moscow, ID, USA:117.00:46.73
+Moses Lake, WA, USA:119.25:47.13
+Moskva (Moscow), Russia:-37.62:55.75
+Mosselbaai, South Africa:-22.13:-34.18
+Mosul (Al Mawsil), Iraq:-43.13:36.35
+Mount Aragatz, Armenia:-44.30:40.33
+Mount Cotopaxi, Ecuador:78.47:-0.67
+Mount Erebus, Antarctica:-167.08:-77.46
+Mount Etna, Italy:-14.98:37.62
+Mount Gambier, Australia:-140.83:-37.85
+Mount Graham, AZ, USA:109.85:32.70
+Mount Hamilton, CA, USA:121.65:37.33
+Mount Hopkins, AZ, USA:110.88:31.69
+Mount Locke, TX, USA:104.02:30.67
+Mount Magnet, Australia:-117.83:-28.10
+Mount Palomar, CA, USA:116.87:33.35
+Mount Pastukhov, Russia:-41.43:43.65
+Mount San Antonio, CA, USA:117.65:34.28
+Mount San Jacinto, CA, USA:116.67:33.82
+Mount Sanglok, Tajikistan:-69.20:38.20
+Mount Vernon, NY, USA:73.82:40.91
+Mount Wilson, CA, USA:118.05:34.22
+Mountain Brook, AL, USA:86.75:33.50
+Mountain Home AFB, ID, USA:115.87:43.05
+Mountain View, CA, USA:122.08:37.39
+Mountain View, MO, USA:91.77:36.98
+Moyale, Kenya:-39.05:3.53
+Mtwara-Mikindani, Tanzania:-40.33:-10.33
+Munchen, Germany:-11.79:48.35
+Muncie, IN, USA:85.39:40.19
+Muncy, PA, USA:75.89:41.24
+Munich, Germany:-11.58:48.13
+Munster-Osnabruck, Germany:-7.68:52.13
+Murfreesboro, TN, USA:86.39:35.85
+Murgab, Tajikistan:-74.03:38.17
+Murmansk, Russia:-33.13:68.98
+Murray, UT, USA:111.89:40.66
+Muscat, Oman:-58.62:23.60
+Muskegon, MI, USA:86.33:43.25
+Muskogee, OK, USA:95.37:35.74
+Musoma, Tanzania:-33.80:-1.50
+Mwanza, Tanzania:-32.97:-2.50
+Myrtle Beach, SC, USA:78.88:33.70
+Mysore, India:-76.62:12.30
+Naalehu, HI, USA:155.58:19.00
+Naberezhnyye Chelny (Brezhnev), Russia:-52.32:55.70
+Nacala, Mozambique:-40.57:-14.52
+Naco, AZ, USA:109.95:31.33
+Naco, Sonora, Mexico:109.93:31.33
+Nagasaki, Japan:-129.92:32.92
+Nagoya, Japan:-136.92:35.25
+Nagpur, India:-79.05:21.08
+Nahbollenbach QM Depot, Germany:-7.35:49.70
+Nairobi, Kenya:-36.82:-1.28
+Nakfa, Eritrea:-38.53:16.67
+Nakhodka, Russia:-132.90:42.88
+Nakhon Ratchasima, Thailand:-102.20:14.98
+Nakhon Sawan, Thailand:-100.17:15.58
+Nakuru, Kenya:-36.07:-0.25
+Nam Dinh, Vietnam:-106.08:20.42
+Nam Tha (Luang Namtha), Laos:-101.50:20.97
+Namibe, Angola:-12.17:-15.17
+Namorik, Marshall Islands:-168.12:5.63
+Nampa, ID, USA:116.56:43.57
+Nancy, France:-6.20:48.70
+Nandi, Fiji:-177.45:-17.75
+Nantes, France:1.55:47.20
+Napa, CA, USA:122.29:38.30
+Nape (Ban Nape), Laos:-105.10:18.30
+Naperville, IL, USA:88.17:41.75
+Naples, FL, USA:81.77:26.12
+Naples, Italy:-14.20:40.62
+Naryan-Mar, Russia:-53.00:68.00
+Nashua, NH, USA:71.38:42.78
+Nashville, TN, USA:86.78:36.16
+Nassau, Bahamas:77.47:25.05
+Natal, Brazil:35.80:-5.30
+Natchez, MS, USA:91.39:31.56
+Nauchnyy, Ukraine:-34.00:44.73
+Nauru (Pleasant Island), Yaren:-166.92:-0.53
+Nazareth, Israel:-35.28:32.70
+Ndele, Central African Republic:-20.60:8.42
+Ndjamina, Chad:-15.04:12.14
+Nebit-Dag, Turkmenistan:-54.37:39.50
+Needles, CA, USA:114.65:34.85
+Neiva, Colombia:75.30:2.93
+Nellingen AHP, Germany:-9.26:48.72
+Nellis AFB, NV, USA:115.12:36.29
+Nenana, AK, USA:149.07:64.57
+Neponsit, NY, USA:73.87:43.57
+Neubiberg, Germany:-11.64:48.08
+Neubruecke Hospital AHP, Germany:-7.17:49.62
+Neuburg, Germany:-11.22:48.71
+Neuhausen ob Eck, Germany:-8.90:47.98
+Nevada, MO, USA:94.35:37.82
+New Albany, IN, USA:85.82:38.28
+New Bedford, MA, USA:70.93:41.64
+New Britain Island, Papua New Guinea:-150.33:-5.83
+New Britian, CT, USA:72.78:41.67
+New Brunswick, NJ, USA:74.45:40.48
+New Caledonia Island:-165.00:-21.00
+New Carrollton, MD, USA:77.07:38.92
+New Castle, Australia:-151.83:-32.80
+New Castle, DE, USA:75.56:39.66
+New Castle, IN, USA:85.42:39.92
+New Castle, PA, USA:80.42:41.00
+New Delhi, India:-77.22:28.90
+New Hampton, IA, USA:92.33:43.05
+New Hartford, CT, USA:73.04:41.88
+New Haven, CT, USA:72.92:41.31
+New Iberia, LA, USA:91.82:30.01
+New London, CT, USA:72.08:41.33
+New Meadows, ID, USA:116.33:44.97
+New Orleans, LA, USA:90.07:29.95
+New Rochelle, NY, USA:73.79:40.91
+New Rockford, ND, USA:99.13:47.67
+New Tucson, AZ, USA:110.70:31.98
+New Washoe City, CA, USA:119.79:39.31
+New York, NY, USA:73.99:40.75
+Newark, DE, USA:75.76:39.68
+Newark, NJ, USA:74.17:40.74
+Newcastle, England, UK:2.23:53.02
+Newell, SD, USA:103.43:44.72
+Newport Beach, CA, USA:117.93:33.62
+Newport News, VA, USA:76.42:36.98
+Newport, Isle of Wight, UK:1.30:50.70
+Newport, KY, USA:84.50:39.09
+Newport, NH, USA:72.17:43.33
+Newport, OR, USA:124.03:44.65
+Newport, RI, USA:71.32:41.48
+Newport, VT, USA:72.25:44.92
+Newton, MA, USA:71.19:42.35
+Newton, NJ, USA:74.75:41.05
+Newtown, UK:3.32:52.52
+Nha Trang, Vietnam:-109.17:12.27
+Niagara Falls, NY, USA:79.06:43.09
+Niamey, Niger:-2.08:13.53
+Nice, France:-7.35:43.70
+Nicobar Islands, India:-94.00:8.00
+Nicosia, Cyprus:-33.28:35.15
+Niederstetten, Germany:-9.96:49.39
+Niigata, Japan:-139.03:37.97
+Nikolayevsk-na-Amure, Russia:-140.73:53.13
+Nis, Serbia:-21.97:43.32
+Nitro, WV, USA:81.83:38.42
+Nizhne-Vartovsk, Russia:-76.63:60.93
+Nizhnyy Novgorod (Gorkiy), Russia:-44.00:56.33
+Nizhnyy Tagil, Russia:-60.00:58.00
+Nogales, AZ, USA:110.92:31.33
+Nogales, Sonora, Mexico:110.93:31.33
+Nome, AK, USA:165.42:64.50
+Norco, CA, USA:117.53:33.92
+Nordholz, Germany:-8.66:53.77
+Nordvik, Russia:-111.53:74.03
+Norfolk Island, Australia:-167.95:-30.00
+Norfolk, NE, USA:97.42:42.03
+Norfolk, VA, USA:76.29:36.85
+Norilsk, Russia:-88.03:69.35
+Norman, OK, USA:97.44:35.22
+North Bay, ON, Canada:79.46:46.32
+North Bellmore, NY, USA:73.55:40.69
+North Cape May, NJ, USA:74.56:39.00
+North Charleston, SC, USA:80.00:32.88
+North Hollywood, CA, USA:118.42:34.13
+North Las Vegas, NV, USA:115.11:36.20
+North Little Rock, AR, USA:92.27:34.76
+North Olmstead, OH, USA:81.97:41.35
+North Platte, NE, USA:100.76:41.14
+North Pole:86.66:90.00
+Northallerton, UK:1.43:54.33
+Northampton, UK:0.90:52.23
+Northfield, MN, USA:93.18:44.47
+Northport, WA, USA:117.78:48.88
+Northrop Strip, NM, USA:106.33:32.70
+Northway, AK, USA:141.93:62.97
+Northwoods, AZ, USA:109.46:34.03
+Norton, KS, USA:99.90:39.67
+Norton, VA, USA:82.60:36.90
+Norvenich, Germany:-6.66:50.83
+Norwalk, CA, USA:118.08:33.90
+Norwalk, CT, USA:73.36:41.12
+Norway, ME, USA:70.58:44.18
+Norwich, UK:-1.28:52.63
+Nottingham, England, UK:1.15:52.97
+Nouakchott, Mauritania:15.97:18.15
+Nouan, France:-2.00:47.50
+Noumea, New Caledonia, France:-166.80:-22.30
+Nove Zamky, Slovakia:-18.13:48.03
+Novgorod, Russia:-31.42:58.00
+Novi Sad, Serbia:-19.87:45.30
+Novi, MI, USA:83.52:42.48
+Novorossiysk, Russia:-37.75:44.75
+Novosibirsk, Russia:-88.92:55.03
+Nueva Gerona, Isla de la Juventud, Cuba:82.82:21.88
+Nuevitas, Cuba:77.33:21.50
+Nuevo Laredo, Tamaulipas, Mexico:99.50:27.50
+Nukualofa, Tonga:175.20:-21.13
+Nukus, Uzbekistan:-59.48:42.83
+Nullarbor, Australia:-130.92:-31.47
+Nurnberg (Nuremburg), Germany:-11.08:49.50
+Nurnberg, BY, Germany:-11.10:49.45
+Nuuk (Godthab), Greenland:51.68:64.20
+O Higgins Base, Antarctica:57.98:-63.40
+Oak Creek, AZ, USA:111.91:34.73
+Oak Park, IL, USA:87.78:41.90
+Oak Ridge, TN, USA:84.27:36.01
+Oakfield, ME, USA:68.17:46.13
+Oakland, CA, USA:122.26:37.80
+Oakley, KS, USA:100.82:39.13
+Oaxaca, Oaxaca, Mexico:96.68:17.08
+Oban, UK:5.50:56.42
+Oberauerbach HP, Germany:-7.41:49.27
+Oberlin, OH, USA:82.26:41.26
+Oberpfaffenhofen, Germany:-11.28:48.08
+Oberursel AHP, Germany:-8.55:50.22
+Obo, Central African Republic:-26.53:5.33
+Ocala, FL, USA:82.15:29.18
+Ocean City, MD, USA:75.17:38.33
+Ocean Grove, NJ, USA:74.00:40.17
+Oceanside, CA, USA:117.38:33.20
+Odessa Meteor Crater, TX, USA:102.48:31.76
+Odessa, TX, USA:102.38:31.86
+Odessa, Ukraine:-30.77:46.50
+Ogallala, NE, USA:101.73:41.13
+Ogden, UT, USA:111.97:41.23
+Ohakea, New Zealand:-175.38:-40.20
+Okhotsk, Russia:-143.17:59.33
+Okinawa, Japan:-127.77:26.35
+Oklahoma City, OK, USA:97.52:35.47
+Olathe, KS, USA:94.82:38.88
+Old Crow, Canada:139.92:67.50
+Oldenburg, Germany:-8.16:53.18
+Oldendorf, Germany:-8.54:52.29
+Olean, NY, USA:78.42:42.08
+Olifantsfontein, Africa:-28.25:-25.96
+Olomouc, Czech Republic:-17.20:49.63
+Olympia, WA, USA:122.97:47.03
+Omaha, NE, USA:95.94:41.26
+Omdurman, Sudan:-32.98:15.66
+Omsk, Russia:-73.37:55.00
+Ondangua, Namibia:-16.07:-17.95
+Ontario, CA, USA:117.65:34.06
+Oostende, Belgium:-2.55:51.13
+Opelika, AL, USA:85.38:32.65
+Opheim, MT, USA:106.32:48.85
+Oporto, Portugal:8.62:41.15
+Oracle, AZ, USA:110.77:32.61
+Oradea, Romania:-21.92:47.05
+Oran, Algeria:0.75:35.77
+Orange Park, FL, USA:81.44:30.11
+Orange, CA, USA:117.85:33.79
+Orange, CT, USA:73.00:41.25
+Orangeburg, SC, USA:80.83:33.50
+Oranjestad, Aruba:70.10:12.55
+Orel, Russia:-36.05:52.95
+Orem, UT, USA:111.70:40.31
+Orenburg, Russia:-55.00:51.83
+Organ Pass, NM, USA:106.55:32.42
+Orizaba, Vera Cruz, Mexico:97.13:18.85
+Orlando, FL, USA:81.38:28.55
+Orleans, France:-1.93:47.92
+Orsha, Belarus:-30.42:54.50
+Orsk, Russia:-58.57:51.20
+Oruro, Bolivia:67.15:-18.00
+Osaka, Japan:-135.45:34.78
+Osaki Site, Japan:-130.98:30.40
+Osborne, KS, USA:98.70:39.42
+Osh, Kyrgyzstan:-72.80:40.55
+Oshkosh, WI, USA:88.54:44.02
+Osijek, Croatia:-18.68:45.57
+Oslo, Norway:-10.68:59.93
+Ostrava, Czech Republic:-18.25:49.83
+Otaru, Japan:-140.98:43.23
+Othello, WA, USA:119.17:46.83
+Otjiwarongo, Namibia:-16.55:-20.50
+Ottawa, ON, Canada:75.67:45.42
+Ottumwa, IA, USA:92.43:41.00
+Ouagadougou, Burkina Faso:1.67:12.33
+Oujda, Morocco:1.92:34.68
+Outer Hebrides Islands, UK:7.58:57.67
+Overland Park, KS, USA:94.67:38.97
+Oviedo, Spain:5.83:43.35
+Owensboro, KY, USA:87.11:37.77
+Oxford, MS, USA:89.50:34.37
+Oxford, NC, USA:78.58:36.28
+Oxford, UK:1.25:51.75
+Oxnard, CA, USA:119.18:34.20
+Ozark, AR, USA:93.82:35.48
+Paauilo, HI, USA:155.42:20.05
+Pacific Beach, CA, USA:117.17:32.73
+Pacific, MO, USA:90.76:38.47
+Padang, Sumatra, Indonesia:-100.33:-1.00
+Paderborn/Lippstadt, Germany:-8.62:51.62
+Padova (Padua), Italy:-11.87:45.40
+Paducah, KY, USA:88.60:37.09
+Pagan Island:-145.77:18.12
+Pago Pago, Tutulia, American Samoa, USA:170.72:-14.33
+Pakse, Laos:-105.87:15.08
+Palembang, Sumatra, Indonesia:-104.70:-2.90
+Palermo, Sicily, Italy:-13.33:38.13
+Palestine, TX, USA:95.63:31.77
+Palm City, FL, USA:80.11:27.11
+Palma de Mallorca, Mallorca (Majorca), Spain:-2.65:39.58
+Palmdale, CA, USA:118.12:35.00
+Palmer, AK, USA:149.10:61.60
+Palmyra Atoll, USA:162.10:5.87
+Palo Alto, CA, USA:122.16:37.44
+Palomar Mtn Observatory, CA, USA:116.87:33.35
+Pamplona, Spain:1.63:42.80
+Panama City, FL, USA:85.65:30.13
+Panama City, Panama:79.38:9.07
+Pantelleria, Italy:-12.00:36.87
+Papeete, Tahiti:149.62:-17.57
+Papoose Lake, NV, USA:115.85:37.11
+Paradise, NV, USA:115.12:36.10
+Paramaribo, Suriname:55.17:5.83
+Paris, France:-2.33:48.85
+Paris, IL, USA:87.67:39.58
+Paris, VA, USA:77.97:38.93
+Park Rapids, MN, USA:95.08:46.88
+Park View, NM, USA:106.50:36.75
+Parker, AZ, USA:114.29:34.15
+Parkersburg, WV, USA:81.56:39.27
+Parma, OH, USA:81.71:41.38
+Parsons, WV, USA:79.67:39.08
+Pasadena, CA, USA:118.14:34.15
+Pasadena, TX, USA:95.21:29.71
+Pascagoula, MS, USA:88.55:30.35
+Pasto, Colombia:77.28:1.22
+Patagonia, AZ, USA:110.76:31.54
+Paterson, NJ, USA:74.17:40.92
+Patna, India:-85.20:25.66
+Pavlodar, Kazakhstan:-77.00:52.55
+Pawtucket, RI, USA:71.38:41.88
+Paysandu, Uruguay:58.13:-32.32
+Payson, AZ, USA:111.32:34.23
+Peace River, AB, Canada:117.40:56.23
+Pearce, Australia:-116.02:-31.67
+Pechenga, Russia:-31.42:69.50
+Pedro Juan Caballero, Paraguay:55.67:-22.50
+Pemba Island, Tanzania:-39.75:-5.00
+Pembina, ND, USA:97.25:48.97
+Penang, Malaysia:-100.28:5.30
+Pendleton, OR, USA:118.78:45.68
+Pensacola, FL, USA:87.26:30.41
+Penza, Russia:-45.08:53.25
+Peoria, IL, USA:89.59:40.70
+Perm, Russia:-56.17:58.02
+Perpignan, France:-2.88:42.70
+Perth Amboy, NJ, USA:74.27:40.52
+Perth, Australia:-116.17:-31.83
+Peru, IL, USA:89.17:41.33
+Pescara, Italy:-14.22:42.47
+Peshawar, Pakistan:-71.51:34.00
+Petersburg, AK, USA:132.95:56.81
+Petersburg, VA, USA:77.50:37.20
+Petrich, Bulgaria:-23.22:41.40
+Petropavl (Petropavlovsk), Kazakhstan:-69.22:54.88
+Petropavlovsk-Kamchatskiy, Russia:-158.64:53.02
+Pevek, Russia:-171.32:69.68
+Pferdsfeld, Germany:-7.61:49.86
+Phan Thiet, Vietnam:-108.15:11.02
+Phenix City, AL, USA:85.00:32.46
+Philadelphia, PA, USA:75.16:39.95
+Philip, SD, USA:101.58:44.05
+Phnom Penh, Cambodia:-104.92:11.57
+Phoenix, AZ, USA:112.07:33.45
+Phong Saly, Laos:-102.15:21.70
+Phuket, Thailand:-98.32:8.12
+Pic du Midi du Bigotte, Pyrenees, France:0.00:43.00
+Picayune, MS, USA:89.68:30.52
+Pico Rivera, CA, USA:118.08:34.00
+Piedras Negras, Coahuila, Mexico:100.58:28.58
+Pierce, NE, USA:97.55:42.18
+Pierre, SD, USA:100.35:44.37
+Pietermaritzburg, South Africa:-30.42:-29.58
+Pietersburg, South Africa:-29.42:-23.90
+Pilar, Paraguay:58.33:-26.83
+Pilot Hill, CA, USA:120.98:38.83
+Pinal, AZ, USA:110.75:33.38
+Pinar del Rio, Cuba:83.67:22.43
+Pine Bluff, AR, USA:92.02:34.22
+Pine City, MN, USA:93.02:45.83
+Pinnacle Peak Village, AZ, USA:111.90:33.70
+Pinon Flat, CA, USA:116.45:33.60
+Pinsk, Belarus:-26.02:52.17
+Pirmasens AHP, Germany:-7.61:49.22
+Pitcairn Island, UK:130.08:-25.07
+Pittsburgh, PA, USA:80.00:40.44
+Pittsfield, MA, USA:73.25:42.45
+Placerville, CA, USA:120.68:38.71
+Plainfield, NJ, USA:74.42:40.63
+Plaisance, Mauritius:-57.70:-20.43
+Plano, TX, USA:96.70:33.02
+Plattsburgh, NY, USA:73.50:44.67
+Playa del Rey, CA, USA:118.44:33.95
+Pleasanton, CA, USA:121.87:37.66
+Pleiku, Vietnam:-108.00:13.95
+Plesetsk, Russia:-40.40:62.80
+Pleven, Bulgaria:-24.62:43.43
+Ploiesti (Ploesti), Romania:-26.03:44.95
+Plovdiv, Bulgaria:-24.75:42.15
+Plymouth, England, UK:4.17:50.38
+Plymouth, MA, USA:70.75:42.00
+Plymouth, MN, USA:93.26:44.98
+Plymouth, Montserrat:62.22:16.70
+Plymouth, NH, USA:71.67:43.83
+Plzen (Pilsen), Czech Republic:-13.37:49.75
+Pocatello, ID, USA:112.45:42.87
+Pocomoke City, MD, USA:75.58:38.08
+Pohnpei, Federated States of Micronesia:-158.22:6.98
+Point Hope, AK, USA:166.63:68.30
+Point Mugu NAS, CA, USA:119.12:34.12
+Polatsk (Polotsk), Belarus:-28.83:55.50
+Polson, MT, USA:114.17:47.67
+Poltava, Ukraine:-34.58:49.58
+Pomona, CA, USA:117.75:34.06
+Pompano Beach, FL, USA:80.12:26.23
+Ponca City, OK, USA:97.01:36.71
+Ponce, Puerto Rico:66.57:18.02
+Pondicherry, India:-79.83:11.98
+Ponta Delgada, Azore Islands:25.40:37.44
+Pontiac, MI, USA:83.29:42.64
+Pontianak, Kalimantan Borneo, Indonesia:-109.20:-0.02
+Popayan, Colombia:76.60:2.45
+Poplar Bluff, MO, USA:90.37:36.72
+Poplar, MT, USA:105.17:48.13
+Poronaysk, Sakhalin, Russia:-143.07:49.23
+Port Allen, HI, USA:159.61:21.90
+Port Arthur, TX, USA:93.94:29.88
+Port Elizabeth, South Africa:-25.67:-33.97
+Port Huron, MI, USA:82.50:43.00
+Port Laoise, Ireland:7.33:53.03
+Port Louis, Mauritius:-57.50:-20.15
+Port Moresby, Papua New Guinea:-147.22:-9.45
+Port Salerno, FL, USA:80.20:27.20
+Port Sulphur, LA, USA:89.68:29.47
+Port of Spain, Trinidad:61.35:10.60
+Port-Vila, Efate, Vanuatu:-168.70:-17.98
+Port-au-Prince, Haiti:72.33:18.58
+Portal, AZ, USA:-109.14:31.91
+Portales, NM, USA:103.33:34.18
+Portland, ME, USA:70.26:43.66
+Portland, OR, USA:122.68:45.52
+Porto Alegre, Brazil:51.18:-30.07
+Porto Velho, Brazil:63.90:-8.75
+Porto-Novo, Benin:-2.78:6.50
+Portsmouth, England, UK:1.05:50.75
+Portsmouth, NH, USA:70.76:43.08
+Portsmouth, OH, USA:83.00:38.75
+Portsmouth, VA, USA:76.30:36.84
+Poti, Georgia:-41.68:42.17
+Potomac, MD, USA:77.18:39.04
+Potosi, Bolivia:65.83:-19.63
+Potsdam, Germany:-13.07:52.38
+Pottstown, PA, USA:75.67:40.25
+Poughkeepsie, NY, USA:73.92:41.75
+Powell, AZ, USA:114.37:34.74
+Prague, Czech Republic:-14.43:50.08
+Pratt, KS, USA:98.44:37.39
+Prescott, AZ, USA:112.47:34.55
+Preston, ID, USA:111.90:42.08
+Preston, UK:2.70:53.77
+Pretoria, South Africa:-28.00:-25.85
+Pribram, Czech Republic:-14.03:49.68
+Prince Albert, SK, Canada:111.12:55.40
+Prince Edward Islands, South Africa:-37.56:-46.35
+Prince George, BC, Canada:122.69:53.92
+Prince Rupert, BC, Canada:130.38:54.31
+Princeton, MO, USA:93.57:40.38
+Princeton, NJ, USA:74.67:40.35
+Princeton, WV, USA:81.08:37.35
+Pristina, Serbia:-21.22:42.67
+Proctor, VT, USA:73.00:43.67
+Prosser, WA, USA:119.46:46.12
+Providence, RI, USA:71.41:41.83
+Provideniya, Russia:173.30:64.38
+Provo, UT, USA:111.66:40.24
+Prudhoe Bay, AK, USA:148.34:70.27
+Przhevalsk, Kyrgyzstan:-78.40:42.48
+Pskov, Russia:-28.42:57.83
+Pueblo, CO, USA:104.61:38.27
+Puerto Belgrano, Argentina:62.08:-38.90
+Puerto Cabezas, Nicaragua:83.40:14.03
+Puerto Carreno, Colombia:67.37:6.20
+Puerto Cortes, Honduras:88.00:15.85
+Puerto Montt, Chile:73.10:-41.43
+Puerto Natales, Chile:72.52:-51.73
+Puerto Princesa, Palawan, Philipines:-118.75:9.77
+Puerto Real, Puerto Rico:65.62:18.34
+Punta Arenas, Chile:70.55:53.09
+Punta del Este (Curbuelo Naval Base), Uruguay:54.95:-34.97
+Pushkin, Russia:-30.42:59.57
+Putnam, CT, USA:71.92:41.92
+Puyallup, WA, USA:122.51:47.28
+Pyongyang, North Korea:-125.78:39.00
+Qaraghandy (Karaganda), Kazakhstan:-73.11:49.88
+Qazvin, Iran:-50.00:36.27
+Qom, Iran:-50.95:34.67
+Quakertown, PA, USA:75.37:40.46
+Quan Long (Ca Mau), Vietnam:-105.13:9.12
+Quartzsite, AZ, USA:114.23:33.66
+Quebec, PQ, Canada:71.17:46.75
+Quelimane, Mozambique:-37.00:-17.88
+Qui Nhon, Vietnam:-109.22:13.67
+Quincy, MA, USA:71.00:42.25
+Quito, Ecuador:78.48:-0.13
+Qyzylorda (Kyzl-Orda), Kazakhstan:-65.47:44.80
+Raanana, Israel:-34.88:32.18
+Rabat, Morocco:6.75:34.05
+Rabaul, Papaua New Guinea:-152.30:-4.40
+Rach Gia, Vietnam:-105.08:10.08
+Rachel, NV, USA:115.74:37.64
+Racine, WI, USA:87.79:42.73
+Ragusa, Sicily, Italy:-14.70:36.93
+Raleigh, NC, USA:78.64:35.78
+Ramstein AB, Germany:-7.60:49.43
+Rancho Palos Verdes, CA, USA:118.40:33.77
+Randolph, VT, USA:72.67:43.92
+Rangeley, ME, USA:70.42:45.00
+Rann of Kutch (Kachchh), India:-70.00:24.00
+Rapa Island, France:144.33:-27.58
+Rapa, French Polynesia, France:144.33:-27.58
+Rapid City, SD, USA:103.23:44.08
+Raton, NM, USA:104.40:36.90
+Ravenna, Italy:-12.25:44.47
+Rawalpindi, Pakistan:-73.10:33.62
+Rawlins, WY, USA:107.24:41.79
+Reading, PA, USA:75.93:40.34
+Reading, UK:0.95:51.45
+Recife, Brazil:34.93:-8.13
+Redding, CA, USA:122.42:40.60
+Redondo Beach, CA, USA:118.39:33.83
+Redwood City, CA, USA:122.25:37.47
+Regensburg, Germany:-49.03:49.12
+Regina, SK, Canada:104.50:50.50
+Regio di Calabria, Italy:-15.63:38.12
+Rehoboth, Namibia:-17.07:-23.25
+Reims, France:-4.00:49.27
+Rendsburg-Schachtholm, Germany:-9.60:54.22
+Rennes, France:1.03:48.12
+Reno, NV, USA:119.81:39.52
+Reseda, CA, USA:118.53:34.20
+Revilla Gigedo Islands, Mexico:112.50:19.00
+Revillagigedo Island, AK, USA:131.33:55.83
+Rexburg, ID, USA:111.78:43.82
+Reykjavik, Iceland:21.90:64.15
+Reynosa, Tamaulipas, Mexico:98.30:26.08
+Rheine-Bentlage, Germany:-7.39:52.29
+Rhinelander, WI, USA:89.42:45.65
+Richardson, TX, USA:96.72:32.95
+Richland, WA, USA:119.32:46.28
+Richmond, Australia:-150.78:-33.60
+Richmond, CA, USA:122.35:37.94
+Richmond, KY, USA:84.33:37.75
+Richmond, UT, USA:111.83:41.92
+Richmond, VA, USA:77.44:37.54
+Rifle, CO, USA:107.83:39.58
+Riga, Latvia:-24.40:56.78
+Rijeka, Croatia:-14.35:45.33
+Rio Branco, Brazil:67.80:-9.97
+Rio Gallegos, Argentina:69.17:-51.62
+Rio Grande, Argentina:67.67:-53.83
+Rio Grande, Brazil:52.08:-32.03
+Rio de Janeiro, Brazil:42.72:-22.45
+Riobamba, Ecuador:78.63:-1.67
+Rivas, Nicaragua:0.00:11.50
+Rivera, Uruguay:55.83:-31.00
+Rivers AHP, Germany:-8.70:50.57
+Riverside, CA, USA:117.36:33.98
+Riverton, WY, USA:108.38:43.02
+Riyadh, Saudi Arabia:-46.78:24.52
+Roanoke, VA, USA:79.95:37.27
+Robinson, IL, USA:87.80:39.83
+Rochdale, Lanc, England, UK:-2.10:53.60
+Rochester Hills, MI, USA:83.13:42.68
+Rochester, MN, USA:92.47:44.02
+Rochester, NH, USA:70.98:43.30
+Rochester, NY, USA:77.61:43.16
+Rock Hill, SC, USA:81.02:34.93
+Rock Springs, WY, USA:109.22:41.58
+Rockford, IL, USA:89.10:42.27
+Rockland, ME, USA:69.10:44.09
+Rockport, MO, USA:95.50:40.42
+Rockville, MD, USA:77.14:39.08
+Rockwood, ME, USA:69.75:45.65
+Rocky Mount, NC, USA:77.78:35.92
+Rogers, AR, USA:94.28:36.28
+Rome, Italy:-12.62:41.87
+Roosevelt Roads, Puerto Rico:65.63:18.25
+Rosario, Baja California, Mexico:115.83:30.00
+Roscommon, Ireland:8.18:53.63
+Roseau, Dominica:61.38:15.30
+Rosemead, CA, USA:118.09:34.07
+Roseville, CA, USA:121.49:38.58
+Roseville, MI, USA:82.94:42.50
+Ross Island, Antarctica:-168.00:-77.30
+Rostock, Germany:-12.13:54.08
+Rostov-na-Donu, Russia:-39.70:47.23
+Roswell, GA, USA:84.35:34.03
+Roswell, NM, USA:104.53:33.40
+Rota Island:-145.24:14.17
+Rota, Northern Marianas Islands:-145.24:14.17
+Rotenburg/Wumme, Germany:-9.35:53.13
+Roth, Germany:-11.10:49.22
+Rotterdam, Netherlands:-4.45:51.92
+Rouen, France:-1.08:49.42
+Roundup, MT, USA:108.58:46.42
+Rowland Heights, CA, USA:117.88:34.00
+Royal Oak, MI, USA:83.15:42.51
+Ruby, AK, USA:155.37:64.63
+Rugby, ND, USA:100.00:48.37
+Rumford, RI, USA:71.41:41.82
+Ruse (Ruschuk), Bulgaria:-25.98:43.80
+Russell, KS, USA:98.85:38.85
+Rustavi, Georgia:-45.00:41.50
+Ruston, LA, USA:92.64:32.52
+Rutland, VT, USA:72.97:43.61
+Rybachyy Peninsula, Russia:-32.00:69.72
+Rybinsk (Andropov), Russia:-38.83:58.08
+S-Bad Cannstatt Hospital, Germany:-9.23:48.82
+Sabha, Libya:-14.48:27.15
+Saco, ME, USA:70.44:43.50
+Sacramento, CA, USA:121.49:38.58
+Safi, Morocco:9.33:32.30
+Saginaw, MI, USA:83.93:43.43
+Saginaw, TX, USA:97.22:32.51
+Sahuarita, AZ, USA:110.96:31.96
+Saint Albans, VT, USA:73.08:44.83
+Saint Andrews, Scotland:2.83:56.33
+Saint Catherines, ON, Canada:79.12:43.10
+Saint Charles, MO, USA:90.48:38.79
+Saint Clair Shores, MI, USA:82.89:42.50
+Saint Cloud, MN, USA:94.17:45.57
+Saint Croix, U.S. Virgin Islands:64.80:17.70
+Saint Denis, Reunion Island:-55.47:-20.87
+Saint George, UT, USA:113.67:37.08
+Saint George_s, Grenada:61.73:12.07
+Saint John, NB, Canada:65.96:45.34
+Saint Johns, Antigua and Barbuda:61.85:17.10
+Saint Johns, Newfoundland, Canada:52.71:47.08
+Saint Joseph, MO, USA:94.85:39.77
+Saint Louis Park, MN, USA:93.35:44.94
+Saint Louis, MO, USA:90.21:38.63
+Saint Lucia:60.95:13.73
+Saint Michales, MD, USA:76.20:38.80
+Saint Nazaire, France:2.22:47.30
+Saint Paul Island, France:-77.57:-38.92
+Saint Paul Island, NS, Canada:60.17:47.25
+Saint Paul Island, Pribilof Islands, AK, USA:170.25:57.17
+Saint Paul, MN, USA:93.10:44.96
+Saint Petersburg (Leningrad), Russia:-30.33:59.95
+Saint Petersburg, FL, USA:82.64:27.77
+Saint Thomas, U.S. Virgin Islands:64.97:18.33
+Saint Tropez, France:-6.63:43.28
+Saint-Pierre, Saint Pierre and Miquelon, France:56.17:46.92
+Saipan, Northern Mariana Islands, USA:-145.73:15.12
+Salamanca, Spain:5.65:40.97
+Sale, Australia:-147.15:-38.10
+Salem, MA, USA:70.90:42.52
+Salem, NH, USA:71.25:42.70
+Salem, OR, USA:123.03:44.94
+Salem, WV, USA:80.58:39.25
+Salina, KS, USA:97.61:38.84
+Salina, UT, USA:111.92:39.00
+Salinas, CA, USA:121.65:36.67
+Salisbury, MD, USA:75.67:38.33
+Sallisaw, OK, USA:94.80:35.45
+Salmon, ID, USA:115.75:45.50
+Salome, AZ, USA:113.62:33.78
+Salt Lake City, UT, USA:111.89:40.76
+Salto, Uruguay:57.83:-31.45
+Salton City, CA, USA:115.95:33.24
+Salvador (Bahia), Brazil:38.52:-12.98
+Salzburg, Austria:-13.00:47.78
+Samara, Russia:-50.10:53.13
+Samarkand, Uzbekistan:-66.97:39.67
+Samarrah, Iraq:-43.90:34.20
+Samsun, Turkey:-36.37:41.25
+San Angelo, TX, USA:100.43:31.46
+San Antonio de los Banos, Cuba:82.50:22.90
+San Antonio, TX, USA:98.48:29.43
+San Bernardino, CA, USA:117.29:34.11
+San Carlos, AZ, USA:110.45:33.35
+San Carlos, Nicaragua:84.83:11.20
+San Clemente Island:118.50:32.83
+San Cristobal, Chiapas, Mexico:92.55:16.83
+San Cristobal, Venezuela:72.23:7.77
+San Diego, CA, USA:117.16:32.71
+San Francisco, CA, USA:122.41:37.78
+San Gorgonio Mountain, CA, USA:116.52:34.10
+San Jose de Mayo, Uruguay:56.67:-34.45
+San Jose del Cabo, Baja California Sur, Mexico:109.67:23.00
+San Jose, CA, USA:121.89:37.34
+San Jose, Costa Rica:84.08:9.95
+San Juan Bautista, Paraguay:57.10:-26.62
+San Juan, Puerto Rico:66.00:18.45
+San Leandro, CA, USA:122.16:37.72
+San Luis Potosi, San Luis Potosi, Mexico:100.98:22.15
+San Marino, San Marino:-12.42:43.93
+San Mateo, CA, USA:122.32:37.56
+San Miguel de Tucuman, Argentina:65.22:-26.82
+San Nicolas Island, CA, USA:119.58:33.25
+San Pedro, CA, USA:118.28:33.73
+San Salvador, El Salvador:89.12:13.70
+San Simon, AZ, USA:109.22:32.27
+Sanaa, Yemen:-44.23:15.38
+Sanders, AZ, USA:109.33:35.22
+Sandersville, GA, USA:82.46:33.00
+Sandhurst, Surry, England, UK:0.80:51.35
+Sandpoint, ID, USA:116.57:48.28
+Sanford, ME, USA:70.78:43.44
+Santa Ana, CA, USA:117.86:33.76
+Santa Barbara, CA, USA:119.70:34.42
+Santa Clara, CA, USA:121.95:37.34
+Santa Cruz, Bolivia:63.13:-17.65
+Santa Fe, Argentina:60.67:-31.67
+Santa Fe, Cuba:82.52:23.08
+Santa Fe, NM, USA:105.94:35.69
+Santa Maria, CA, USA:120.46:34.90
+Santa Monica, CA, USA:118.48:34.01
+Santa Rosa de Copan, Honduras:88.77:14.78
+Santa Rosa, CA, USA:122.72:38.44
+Santa Rosa, La Pampa, Argentina:64.28:-36.67
+Santa Rosa, NM, USA:104.68:34.92
+Santa Rosa, San Luis, Argentina:65.17:-32.35
+Santa Rosalia, Baja California Sur, Mexico:112.33:27.33
+Santander, Spain:3.85:43.45
+Santiago Peak, CA, USA:117.53:33.72
+Santiago de Campostela, Spain:-8.62:42.87
+Santiago de Cuba, Cuba:75.82:20.00
+Santiago, Chile:70.67:-33.43
+Santiago, Panama:81.00:8.00
+Santo Antonio, Sao Tome and Principe:-7.45:1.62
+Santo Domingo, Dominican Republic:69.67:18.44
+Sao Luis (Maranhao), Brazil:44.25:-2.65
+Sao Luis, Brazil:44.25:-2.65
+Sao Paulo, Brazil:46.63:-23.57
+Sao Tome, Sao Tome and Principe:-6.65:0.17
+Sapporo, Japan:-141.38:43.12
+Sarajevo, Bosnia:-18.34:43.83
+Sarasota, FL, USA:82.53:27.34
+Saratov, Russia:-46.03:51.50
+Saravane, Laos:-106.42:15.72
+Sargent, NE, USA:99.63:41.67
+Sary Shagan, Kazakhstan:-73.63:46.12
+Saskatoon, SK, Canada:106.60:52.15
+Sault Ste. Marie, MI, USA:84.35:46.48
+Savannah, GA, USA:81.09:32.08
+Savannakhet, Laos:-104.82:16.50
+Savona, Italy:-8.48:44.32
+Scappa Flow, UK:3.10:58.87
+Scarborough, ON, Canada:79.37:43.67
+Schaumburg, IL, USA:88.08:42.04
+Schenectady, NY, USA:73.93:42.81
+Schleswig, Germany:-9.51:54.46
+Schonefeld, Germany:-13.52:52.38
+Schuyler, NE, USA:97.08:41.47
+Schwabisch Hall AAF, Germany:-9.78:49.12
+Schweinfurt AHP, Germany:-10.17:50.05
+Schwetzingen AHP, Germany:-8.57:49.40
+Scott Island, Antarctica:-179.00:-67.00
+Scottsdale, AZ, USA:111.93:33.49
+Scranton, PA, USA:75.66:41.41
+Seabrook, TX, USA:95.03:29.56
+Seaford, DE, USA:75.61:38.64
+Seal Beach, CA, USA:117.99:33.78
+Seattle, WA, USA:122.34:47.61
+Sebastian, FL, USA:80.50:27.84
+Selma, AL, USA:87.02:32.42
+Selter, Germany:-8.27:50.37
+Semey (Semipalatinsk), Kazakhstan:-80.27:50.43
+Sendai, Japan:-140.83:38.33
+Seoul, South Korea:-127.05:37.58
+Sept-Iles, PQ, Canada:66.31:50.22
+Sevastopol, Crimea, Ukraine:-33.52:44.60
+Severodvinsk, Russia:-39.97:64.45
+Severomorsk, Russia:-33.45:69.08
+Seville, Spain:5.90:37.42
+Seward, AK, USA:149.45:60.10
+Seychelles Islands:-55.00:-5.00
+Seymour, TN, USA:83.72:35.88
+Shannon, Ireland:8.92:52.70
+Shawnee, KS, USA:94.72:39.01
+Sheboygan, WI, USA:87.75:43.76
+Sheffield, England, UK:1.47:53.38
+Shelby, OH, USA:82.66:40.88
+Shelbyville, TN, USA:86.47:35.50
+Sheldon, IA, USA:95.83:43.17
+Shell Beach, CA, USA:120.67:35.16
+Shemya Island, AK, USA:-174.12:52.71
+Sherbrooke, PQ, Canada:71.77:45.40
+Sheridan, WY, USA:106.96:44.80
+Shiraz, Iran:-52.59:29.54
+Shkoder, Albania:-19.50:42.05
+Shoshone, ID, USA:114.40:42.93
+Show Low, AZ, USA:110.03:34.26
+Shreveport, LA, USA:93.75:32.51
+Shrewsbury, UK:2.75:52.70
+Shriharikota, India:-80.25:13.78
+Shungnak, AK, USA:157.33:66.92
+Shymkent (Chimkent), Kazakhstan:-69.08:42.27
+Sibu, Malaysia:-111.83:2.35
+Sidon (Sayda), Lebanon:-35.42:33.58
+Siegerland, Germany:-8.08:50.71
+Siem Reap (Siemreab), Cambodia:-103.87:13.33
+Sigonella, Sicily, Italy:-14.92:37.40
+Silver Spring, MD, USA:77.00:39.00
+Simbirsk (Ulyanovsk), Russia:-48.42:54.33
+Simferopol, Crimea, Ukraine:-34.08:44.95
+Simi Valley, CA, USA:118.78:34.27
+Singapore, Singapore:-103.75:1.37
+Sinop, Turkey:-35.18:42.02
+Sioux City, IA, USA:96.41:42.50
+Sioux Falls, SD, USA:96.73:43.54
+Sioux Lookout, ON, Canada:91.92:50.07
+Sioux Narrows, ON, Canada:94.00:49.40
+Sitka, AK, USA:135.36:57.05
+Sittwe, Myanmar (Burma):-92.88:20.13
+Skillet Knob, NM, USA:106.64:33.23
+Skokie, IL, USA:87.75:42.04
+Skopje, Macedonia:-21.45:41.97
+Slidell, LA, USA:89.80:30.28
+Sliding Spring, Austalia:-149.17:-31.28
+Sligo, Ireland:8.47:54.28
+Smolensk, Russia:-32.08:54.75
+Smyrna, DE, USA:75.61:39.30
+Soc Trang, Vietnam:-105.83:9.62
+Sochi, Russia:-39.67:4358.00
+Socotra Island, South Yemen:-54.00:12.50
+Soda Springs, ID, USA:111.62:42.65
+Soeborg, Denmark:-12.35:55.42
+Sofia, Bulgaria:-23.33:42.72
+Sollingen, Germany:-8.08:48.78
+Solomon Islands:-158.00:-8.00
+Somerset, KY, USA:84.36:37.04
+Somerset, NJ, USA:74.56:40.51
+Somerville, MA, USA:71.10:42.39
+Somerville, NJ, USA:74.62:40.57
+Son Tay, Vietnam:-105.50:21.13
+Sondrestrom, Greenland:50.72:67.02
+Songea, Tanzania:-35.67:-10.67
+Songkhla, Thailand:-100.62:7.22
+Sonoita, AZ, USA:110.65:31.68
+Sonoma, CA, USA:122.51:38.30
+Sound of Sleat, Scotland, UK:5.75:57.25
+South Bend, IN, USA:86.25:41.68
+South Gate, CA, USA:118.20:33.96
+South Georgia Island, UK:36.45:-54.15
+South Pole, Antarctica:86.66:-90.00
+South Portland, ME, USA:70.25:43.64
+South Sandwich Islands:27.00:-57.00
+Southampton, England, UK:1.50:50.90
+Southampton, NY, USA:72.40:40.88
+Southfield, MI, USA:83.28:42.48
+Southington, CT, USA:72.87:41.63
+Sparks, NV, USA:119.75:39.54
+Spartanburg, SC, USA:81.94:34.95
+Spenard, AK, USA:149.92:61.19
+Spencer, IA, USA:95.13:43.15
+Split, Crotia:-16.45:43.53
+Spokane, WA, USA:117.43:47.66
+Springdale, AR, USA:94.12:36.17
+Springfield, IL, USA:89.65:39.80
+Springfield, MA, USA:72.59:42.11
+Springfield, MO, USA:93.29:37.22
+Springfield, OH, USA:83.81:39.93
+Springfield, OR, USA:123.02:44.05
+Springfield, VT, USA:72.48:43.30
+Srednekolymskaya, Russia:-153.58:67.45
+Sriharikota, India:-80.25:13.78
+Srinigar, India:-74.83:34.08
+St-Hubert, Quebec:73.58:45.50
+Stafford, UK:2.15:52.82
+Stamford, CT, USA:73.54:41.05
+Stanford, CA, USA:122.18:37.43
+Stanley, Falkland Islands:57.98:-51.77
+Stara Zagora, Bulgaria:-25.65:42.43
+Staten Island (Isla de los Estados), Argentina:64.50:-54.67
+Staten Island, NY, USA:74.15:40.58
+Statesville, NC, USA:80.90:34.75
+Stavanger, Norway:-5.75:58.97
+Stavropol, Russia:-42.00:45.08
+Steamboat Canyon Trading Post, AZ, USA:109.86:35.74
+Steamboat Springs, CO, USA:106.80:40.50
+Sterling Heights, MI, USA:83.02:42.58
+Sterling, IL, USA:89.65:41.78
+Sterling, VA, USA:77.46:38.94
+Steubenville, OH, USA:80.61:40.36
+Stirling, Scotland, UK:3.95:56.12
+Stockholm, ME, USA:68.13:47.08
+Stockholm, Sweden:-18.00:59.38
+Stockton, CA, USA:121.29:37.96
+Stony Brook, NY, USA:73.13:40.92
+Stornoway, UK:6.38:58.20
+Strait of Dover:-1.75:51.00
+Strasbourg, France:-7.63:48.54
+Stratford, CT, USA:73.13:41.20
+Stung Treng (Stoeng Treng), Cambodia:-105.97:13.52
+Sturtevant, WI, USA:87.90:42.70
+Stuttgart, Germany:-9.25:48.80
+Subotica, Serbia:-19.65:46.10
+Sucre, Bolivia:65.28:-19.03
+Sudbury, ON, Canada:80.86:46.54
+Suffolk, VA, USA:76.58:36.73
+Sukhumi, Georgia:-41.03:43.02
+Sumen, Bulgaria:-26.92:43.30
+Sumter, SC, USA:80.35:33.92
+Sun Valley, CA, USA:118.37:34.25
+Sun Valley, ID, USA:114.21:43.42
+Sundsvall, Sweden:-17.33:62.36
+Sunnyvale, CA, USA:122.03:37.38
+Sunrise, FL, USA:80.25:26.15
+Superior, AZ, USA:111.09:33.30
+Superior, WI, USA:92.10:46.72
+Surabaya, Java, Indonesia:-112.75:-7.25
+Surat Thani, Thailand:-99.33:9.10
+Surgut, Russia:-73.33:61.23
+Surt, Libya:-16.98:31.18
+Suvorov Islands:163.05:-13.15
+Swakopmund, Namibia:-14.50:-22.62
+Swannanoa, NC, USA:82.56:35.60
+Swansea, UK:3.95:51.62
+Swift Current, SK, Canada:107.75:50.28
+Sydney, Australia:-151.28:-33.92
+Sydney, NS, Canada:60.08:46.14
+Syktyvkar, Russia:-50.67:61.75
+Syracuse, NY, USA:76.15:43.05
+Table Mountain, CA, USA:117.70:34.40
+Tabora, Tanzania:-32.83:-5.03
+Tabriz, Iran:-46.24:38.13
+Tacoma, WA, USA:122.44:47.25
+Tacuarembo, Uruguay:55.98:-31.73
+Taegu, South Korea:-128.60:35.87
+Taejon, South Korea:-127.43:36.33
+Taganrog, Russia:-38.93:47.20
+Tahiti, French Polynesia, France:149.60:-17.55
+Taipei, Taiwan:-121.63:25.03
+Takesake Site, Japan:-130.98:30.40
+Talara, Peru:81.25:-4.57
+Talas, Kyrgyzstan:-72.23:42.53
+Taldy Kurgan, Kazakhstan:-78.38:45.00
+Tallahassee, FL, USA:84.28:30.44
+Tallinn (Reval), Estonia:-24.80:59.37
+Tamanrasset, Algeria:-5.50:22.93
+Tambov, Russia:-41.47:52.75
+Tampa, FL, USA:82.46:27.95
+Tampico, Mexico:97.83:22.33
+Tananarive, Madagascar:-47.00:-19.00
+Tandjungpandan, Belitung, Indonesia:-107.65:-2.75
+Tanga, Tanzania:-39.03:-5.08
+Tangier, Morocco:5.92:35.87
+Tanque Verde, AZ, USA:110.74:32.25
+Taora Island:-171.23:8.71
+Taranto, Italy:-17.18:40.50
+Tarawa, Kiribati:-173.00:1.42
+Tarfaya, Morocco:12.92:27.92
+Tarija, Bolivia:64.67:-21.50
+Tartus, Syria:-35.92:34.92
+Tashauz, Turkmenistan:-59.55:41.83
+Tashkent, Uzbekistan:-69.22:41.27
+Taunton, UK:3.12:51.02
+Tautenberg, Germany:-11.72:59.96
+Taylor, MI, USA:83.27:42.22
+Tbilisi, Georgia:-44.80:41.72
+Tegucigalpa, Honduras:87.22:14.07
+Tehran, Iran:-51.50:35.75
+Tehuacan, Mexico:97.50:18.50
+Tehuantepec, Oaxaca, Mexico:95.22:16.35
+Teignmouth, England, UK:-3.51:50.55
+Tel Aviv, Israel:-34.88:32.02
+Telavi, Georgia:-45.50:42.00
+Tempe, AZ, USA:111.93:33.42
+Tengah, Singapore:-103.72:1.38
+Tenino, WA, USA:122.83:46.87
+Tennant Creek, Australia:-134.25:-19.52
+Tepic, Nayarit, Mexico:104.90:21.50
+Tern Island, HI, USA:166.29:23.87
+Terre Haute, IN, USA:87.41:39.47
+Tetouan, Morocco:5.35:35.58
+Texarkana, AR/TX, USA:94.04:33.43
+The Kremlin, Moscow, Russia:-37.62:55.75
+The Pas, MB, Canada:101.17:53.88
+The Pentagon, Virginia, USA:77.05:38.87
+The Vatican, Vatican City:-12.45:41.90
+The White House, District of Colombia, USA:77.03:38.90
+Thibodaux, LA, USA:90.81:29.80
+Thimphu (Tashi Chho Dzong, Thimbu), Bhutan:-89.67:27.48
+Thimphu (Thimbu), Bhutan:-89.67:27.48
+Thomasville, AL, USA:87.72:31.92
+Thornton, CO, USA:104.96:39.86
+Thousand Oaks, CA, USA:118.84:34.17
+Thule, Greenland:68.70:76.54
+Thumba Station, India:-76.87:6.58
+Thunder Bay, ON, Canada:89.20:48.45
+Thursday Island, Australia:-142.05:-10.50
+Tifton, GA, USA:83.57:31.42
+Tijuana, Baja California, Mexico:117.17:32.33
+Tiksi, Russia:-128.80:71.60
+Tillamook, OR, USA:123.85:45.46
+Tillson, NY, USA:74.07:41.84
+Timbuktu, Mali:2.98:16.82
+Timisoara, Romania:-21.25:45.78
+Timmins, ON, Canada:81.33:48.48
+Tinak, Marshall Islands:-171.92:7.13
+Tindouf, Algeria:8.07:27.83
+Tinian Island, Northern Marianas, USA:-145.62:15.00
+Tippecanoe, OH, USA:81.28:40.27
+Tipperary, Ireland:8.17:52.47
+Tirane, Albania:-19.83:41.33
+Tobol, Kazakhstan:-62.65:52.67
+Tobolsk, Russia:-68.17:58.25
+Tobruk, Libya:-23.98:32.08
+Tokyo, Japan:-139.73:35.68
+Toledo, OH, USA:83.54:41.65
+Toliara (Tulear), Madigascar:-43.67:-23.35
+Tombstone, AZ, USA:110.00:31.67
+Tomsk, Russia:-85.08:56.50
+Tonawanda, NY, USA:78.88:43.02
+Tongue Point Naval Base, OR, USA:123.77:46.20
+Tonopah Junction, NV, USA:118.10:38.26
+Tonopah, AZ, USA:112.94:33.49
+Tonopah, NV, USA:117.23:38.07
+Toomasina (Tamatave), Madagascar:-49.38:-18.17
+Topeka, KS, USA:95.67:39.05
+Torino (Turin), Italy:-7.67:45.07
+Toronto, ON, Canada:79.37:43.67
+Torrance, CA, USA:118.31:33.82
+'Torrejon AB, Spain', -3.48 40.49, 0.:0.00:0.00
+Torreon, Mexico:103.42:25.55
+Torrington, CT, USA:73.17:41.83
+Toulon, France:-5.92:43.17
+Toulouse, France:-1.45:43.62
+Tournan, France:-2.79:48.74
+Tours, France:-0.65:47.38
+Townsville, Australia:-146.77:-19.25
+Trabzon, Turkey:-39.71:41.00
+Tralee, Ireland:9.70:52.27
+Tranh Hoa, Vietnam:-105.77:19.80
+Trapani, Sicily, Italy:-12.48:37.90
+Traverse City, MI, USA:85.67:44.75
+Trento, Italy:-11.13:46.08
+Trenton, NJ, USA:74.77:40.22
+Trier-Fohren, Germany:-6.78:49.86
+Trieste, Italy:-13.75:45.65
+Trincomalee, Sri Lanka:-81.23:8.57
+Trinidad, Bolivia:64.83:-14.77
+Trinidad, CO, USA:104.52:37.18
+Triple Island, BC, Canada:130.88:54.29
+Tripoli (Tarabulus), Lebanon:-35.83:34.52
+Tripoli (Tarabulus), Libya:-13.22:32.83
+Tristan de Cunha Island, UK:12.50:43.87
+Trivandrum GS, India (TLR):-76.87:8.52
+Trois-Rivieres, PQ, Canada:72.68:46.36
+Troitsk, Russia:-61.58:54.17
+Tromelin Island, France:-54.42:-15.87
+Tromso, Norway:-19.00:69.70
+Trona, CA, USA:117.38:35.75
+Trondheim, Norway:-10.38:63.60
+Trowbridge, UK:2.20:51.30
+Troy, MI, USA:83.15:42.61
+Troy, MT, USA:115.93:48.47
+Troy, NY, USA:73.68:42.73
+Truk Atoll, Federated States of Micronesia:-151.84:7.46
+Truro, UK:5.03:50.28
+Truth or Consequences, NM, USA:107.33:33.17
+Tsukuba Science City, Japan:-140.12:36.07
+Tucson, AZ, USA:110.97:32.22
+Tucumcari, NM, USA:103.72:35.18
+Tula, Russia:-37.63:54.22
+Tulare, CA, USA:119.35:36.22
+Tullamore, Ireland:7.50:53.28
+Tulsa, OK, USA:95.99:36.15
+Tumacacori, AZ, USA:0.00:31.57
+Tumaco, Colombia:78.75:1.83
+Tumwater, WA, USA:122.91:47.01
+Tunis, Tunisia:-10.22:36.85
+Tupelo, MS, USA:88.72:34.23
+Tuscaloosa, AL, USA:87.57:33.20
+Tuvalu:-178.00:-8.00
+Tuxpan, Mexico:97.38:20.97
+Tuzla, Bosnia:-18.68:44.55
+Twentynine Palms MCB, CA, USA:116.05:34.22
+Twin Buttes, AZ, USA:109.90:35.44
+Twin Falls, ID, USA:114.47:42.56
+Tyler, TX, USA:95.30:32.34
+Tyre (Sur), Lebanon:-35.27:33.32
+Tyresoe, Sweden:-18.28:59.24
+Tyumen, Russia:-65.48:57.18
+Tyura Tam (Leninsk, Baykonur), Kazakhstan:-63.40:45.60
+Ubon-Ratchathani, Thailand:-104.87:15.25
+Uccle, Belgium:-4.35:50.80
+Udine, Italy:-13.17:46.08
+Udon-Thani, Thailand:-102.80:17.38
+Uelzen, Germany:-10.52:52.97
+Ufa, Russia:-55.97:54.75
+Ujung Pandang, Sulawesi, Indonesia:-119.55:-5.07
+Ulan Batar, Mongolia:-106.53:47.55
+Ulan Ude, Russia:-107.37:51.50
+Uliastaj, Mongolia:-96.87:47.78
+Umea, Sweden:-20.25:63.83
+Unalaska, AK, USA:166.54:53.91
+Union City, NJ, USA:74.04:40.75
+Union City, TN, USA:89.07:36.42
+University City, MO, USA:90.33:38.66
+University of Florida, Gainesville, FL, USA:82.59:29.40
+Upington, South Africa:-21.25:-28.42
+Upolu, HI, USA:155.86:20.27
+Uppsala, Sweden:-17.65:59.92
+Uralsk, Kazakhstan:-51.33:51.32
+Urbana, IL, USA:88.20:40.11
+Ushuaia, Tierra del Fuego, Argentina:68.38:-54.83
+Ussuriysk, Russia:-131.98:43.80
+Ust-Kamenogorsk, Kazakhstan:-82.63:49.97
+Usti nad Labem, Czech Republic:-14.05:50.68
+Utica, NY, USA:75.23:43.10
+Utirik, Marshall Islands:-169.85:11.23
+Uzhgorod, Ukraine:-22.25:48.63
+Vacaville, CA, USA:121.50:38.27
+Vaduz, Liechtenstein:-9.53:47.13
+Val-d-or, PQ, Canada:77.78:48.08
+Valdepenas, Spain:3.24:38.77
+Valdez, AK, USA:146.28:61.13
+Valdivia, Chile:73.24:-39.60
+Valdosta, GA, USA:83.28:30.83
+Vale, OR, USA:117.23:43.98
+Valencia, Spain:0.38:39.45
+Valentine, NE, USA:100.57:42.87
+Valhalla, NY, USA:73.77:41.81
+Valladolid, Spain:4.75:50.37
+Vallejo, CA, USA:122.25:38.11
+Valletta, Malta:-14.48:35.83
+Valparaiso, Chile:71.53:-33.03
+Valparaiso, FL, USA:86.50:30.48
+Van Buren, ME, USA:67.97:47.15
+Van Nuys, CA, USA:118.37:34.18
+Van, Turkey:-43.33:38.50
+Vancouver, BC, Canada:123.08:49.25
+Vancouver, WA, USA:122.67:45.62
+Vandans, Austria:-9.86:47.10
+Vandenberg AFB, CA, USA:120.62:34.61
+Vardo, Norway:-31.33:70.35
+Varna (Stalin), Bulgaria:-27.93:43.22
+Vaughn, NM, USA:105.22:34.62
+Venezia (Venice), Italy:-12.30:45.42
+Venice, CA, USA:118.44:33.90
+Venice, Italy:-12.30:45.42
+Ventura, CA, USA:119.30:34.28
+Veracruz, Vera Cruz, Mexico:115.08:32.42
+Vermillion, SD, USA:96.93:42.78
+Vernal, UT, USA:109.67:40.48
+Vicksburg, MS, USA:90.88:32.35
+Victoria Falls, Zambia:-25.75:-17.97
+Victoria de Durango, Durango, Mexico:104.65:24.05
+Victoria, BC, Canada:123.40:48.63
+Victoria, TX, USA:97.00:28.80
+Vienna, Austria:-16.37:48.22
+Vientiane, Laos:-102.80:18.02
+Villahermosa, Tabasco, Mexico:92.83:18.00
+Villarrica, Paraguay:56.50:-25.67
+Vilnius, Lithuania:-25.32:54.67
+Vilseck AAF, Germany:-11.76:49.64
+Vilseck Main AHP, Germany:-11.81:49.65
+Vilyuysk, Russia:-121.58:63.67
+Vineland, NJ, USA:75.03:39.49
+Vinh Linh, Vietnam:-107.03:17.07
+Vinh Long, Vietnam:-105.95:10.27
+Vinh, Vietnam:-105.63:18.75
+Vinnitsa, Ukraine:-28.50:49.18
+Virginia Beach, VA, USA:76.14:36.85
+Visalia, CA, USA:119.30:36.34
+Vitebsk, Belarus:-30.23:55.17
+Vitsyebsk (Vitebsk), Belarus:-30.23:55.17
+Vladikavkaz, Russia:-44.72:43.03
+Vladivostok, Russia:-131.78:43.10
+Vlore, Albania:-19.50:40.45
+Volgograd (Stalingrad), Russia:-44.50:48.75
+Vologda, Russia:-39.75:59.17
+Vols, Austria:-11.19:47.15
+Vorkuta, Russia:-64.00:67.45
+Voronezh, Russia:-39.22:51.67
+Votkinsk, Russia:-53.92:57.00
+Vyatka, Russia:-49.67:58.58
+Vyborg, Russia:-28.78:60.72
+Wabash, IN, USA:85.83:40.75
+Waco, TX, USA:97.13:31.55
+Wahiawa, Oahu, HI, USA:158.03:21.50
+Waikola, HI, USA:155.75:19.87
+Wailuku, Maui, HI, USA:156.50:20.92
+Waimea, HI, USA:159.63:21.93
+Waipahu, Oahu, HI, USA:158.03:21.33
+Wake Island:-166.64:19.28
+Wakefield, MA, USA:71.07:42.50
+Wakefield, UK:1.52:53.68
+Waldoboro, ME, USA:69.37:44.10
+Walker, LA, USA:91.18:30.45
+Walla Walla, WA, USA:118.34:46.07
+Wallace, ID, USA:115.92:47.45
+Wallops Island, VA, USA:75.27:37.52
+Wallowa, OR, USA:117.53:45.57
+Walnut Creek, CA, USA:122.06:37.90
+Waltham, MA, USA:71.24:42.37
+Walvis Bay, South Africa:-14.52:-22.67
+Warner Robins, GA, USA:83.60:32.62
+Warren, MI, USA:83.03:42.51
+Warren, OH, USA:80.81:41.24
+Warren, PA, USA:79.17:41.83
+Warsaw, Poland:-21.08:52.58
+Warwick, RI, USA:71.46:41.70
+Warwick, UK:1.60:52.28
+Wasco, OR, USA:120.70:45.60
+Waseca, MN, USA:93.49:44.07
+Washington (USNO), DC:77.07:38.92
+Washington, DC:77.01:38.90
+Washington, IL, USA:89.40:40.69
+Waterbury, CT, USA:73.04:41.55
+Waterford, Ireland:7.13:52.27
+Waterloo, IA, USA:92.34:42.49
+Waterloo, ON, Canada:80.49:43.46
+Watertown, NY, USA:75.92:44.00
+Watertown, SD, USA:97.11:44.90
+Waterville, WA, USA:120.07:47.63
+Waukegan, IL, USA:87.83:42.36
+Waukesha, WI, USA:88.24:43.00
+Wausau, WI, USA:89.67:44.97
+Wauwatosa, WI, USA:88.01:43.05
+Waxahatchie, TX, USA:96.83:32.33
+Waycross, GA, USA:82.40:31.18
+Wayne, NE, USA:97.05:42.22
+Waynesboro, VA, USA:78.88:38.06
+Waynesburg, PA, USA:80.23:39.93
+Weirs, NH, USA:71.25:43.70
+Weirton, WV, USA:80.59:40.40
+Wellington, New Zealand:-174.75:-41.25
+Wells, NV, USA:115.07:41.12
+Wendover, UT, USA:114.02:40.78
+Wertheim AHP, Germany:-9.49:49.76
+West Allis, WI, USA:88.01:43.01
+West Covina, CA, USA:117.91:34.07
+West Fargo, ND, USA:96.90:46.87
+West Hartford, CT, USA:72.74:41.75
+West Haven, CT, USA:72.95:41.28
+West Hills, CA, USA:118.64:34.19
+West Memphis, AR, USA:90.18:35.15
+West Palm Beach, FL, USA:80.05:26.72
+West Sedona, AZ, USA:111.80:34.87
+West Springfield, MA, USA:72.63:42.10
+West Warwick, RI, USA:71.52:41.71
+Westbrook, ME, USA:70.36:43.68
+Westerland/Sylt, Germany:-8.34:54.92
+Westerly, RI, USA:71.83:41.42
+Western Head, NS, Canada (DGPS REFSTA):64.66:43.99
+Westland, MI, USA:83.39:42.30
+Westminster, CA, USA:117.99:33.78
+Westminster, CO, USA:105.03:39.83
+Westminster, MD, USA:76.99:38.56
+Westover AFB, MA, USA:72.53:42.20
+Wexford, Ireland:6.47:52.33
+Weymouth, MA, USA:70.96:42.22
+Wheaton, MD, USA:77.08:39.08
+Wheeler AFB, HI, USA:158.04:21.48
+Wheeling, WV, USA:80.72:40.07
+Wheelus AB, Libya:-13.07:32.67
+Whenuapai, New Zealand:-174.63:-36.78
+Whidbey Island, WA, USA:122.65:48.30
+White Plains, NY, USA:73.76:41.03
+White Sands, NM, USA:106.33:32.63
+Whitefish Point, MI, USA (USGC DGPS REFSTA):84.96:46.77
+Whitehorse, Yukon:135.07:60.72
+Whitetail, AZ, USA:110.73:32.41
+Whittier, CA, USA:118.04:33.97
+Why, AZ, USA:112.74:32.27
+Wichita Falls, TX, USA:98.49:33.91
+Wichita, KS, USA:97.34:37.69
+Wickenburg, AZ, USA:112.73:33.97
+Wicklow, Ireland:6.42:52.98
+Wiesbaden AB AAF, Germany:-8.33:50.05
+Wilder, ID, USA:116.94:43.61
+Wildflecken AAF, Germany:-9.92:50.40
+Wildwood, NJ, USA (USCG DGPS REFSTA):74.86:38.95
+Wilhelmshaven/Marienins., Germany:-8.05:53.50
+Wilkes-Barre, PA, USA:75.89:41.24
+Willcox, AZ, USA:109.83:32.25
+Willemstadt, Curacao:68.03:12.10
+Williams Bay, WI, USA:88.55:42.57
+Willis Island Group, Australia:-150.00:-16.30
+Williston, ND, USA:103.62:48.15
+Wilmington, DE, USA:75.55:39.75
+Wilmington, NC, USA:77.92:34.24
+Wiltshire, UK:2.00:51.33
+Winchester, ID, USA:116.65:46.23
+Winchester, KY, USA:84.25:38.00
+Winchester, NH, USA:72.42:42.75
+Winchester, UK:1.32:51.07
+Winchester, VA, USA:78.17:39.17
+Windam, CT, USA:72.08:41.75
+Windhoek, Namibia:-17.10:-22.57
+Windsor, ON, Canada:82.97:42.28
+Winnemucca, NV, USA:119.13:40.10
+Winner, SD, USA:99.83:43.37
+Winnett, MT, USA:108.33:47.02
+Winnfield, LA, USA:92.65:31.93
+Winnipeg, MB, Canada:97.13:49.90
+Winona, MN, USA:91.67:44.05
+Winona, MS, USA:89.72:33.48
+Winooski, VT, USA:73.17:44.50
+Winsted, CT, USA:73.08:41.92
+Winston-Salem, NC, USA:80.24:36.10
+Wintersburg, AZ, USA:112.87:33.42
+Wittmundhafen, Germany:-7.67:53.55
+Wollongong, Australia:-150.90:-34.42
+Wolphaartsdijk, Netherlands:-3.90:51.53
+Woodland Hills, CA, USA:118.59:34.15
+Woodsville, NH, USA:72.00:44.17
+Woodward, OK, USA:99.40:36.42
+Woonsocket, RI, USA:71.50:42.00
+Woonsocket, SD, USA:98.28:44.05
+Worcester, MA, USA:71.80:42.26
+Worcester, UK:2.20:52.20
+Worms AHP, Germany:-8.39:49.61
+Wotje, Marshall Islands:-170.23:9.47
+Wrangel Island (Ostrov Vrangelya), Russia:180.00:71.00
+Wrangell Island, AK, USA:132.20:56.27
+Wright-Patterson AFB, OH, USA:84.05:39.83
+Wroclaw, Poland:-17.08:51.08
+Wueschheim AS Helipad, Germany:-7.44:50.05
+Wunstorf, Germany:-9.44:52.46
+Wurzburg, Germany:-9.89:49.82
+Wynnewood, PA, USA:75.18:40.01
+Wyoming, MI, USA:85.71:42.90
+Wytheville, VA, USA:81.10:36.92
+Xieng Khouang (Xiangkhoang), Laos:-103.42:19.28
+Xingu, Brazil:53.00:-7.00
+Yakima, WA, USA:120.51:46.60
+Yakutat, AK, USA:139.58:59.53
+Yakutsk, Russia:-129.30:62.17
+Yalta, Ukraine:-34.20:44.48
+Yangon (Rangoon), Myanmar (Burma):-96.15:16.77
+Yankton, SD, USA:97.39:42.88
+Yaounde, Cameroon:-11.51:3.85
+Yap Island, Federated States of Micronesia:-138.09:9.50
+Yardley, PA, USA:74.78:40.21
+Yarnell, AZ, USA:112.75:34.22
+Yavne Site, Israel:-34.45:31.52
+Yazd, Iran:-54.37:31.90
+Yekaterinburg (Sverdlovsk), Russia:-60.60:56.85
+Yellowknife, NWT, Canada:114.42:62.48
+Yeniseysk, Russia:-92.17:58.45
+Yerevan, Armenia:-44.50:40.17
+Yonkers, NY, USA:73.90:40.93
+York, PA, USA:76.73:39.96
+Yorktown Heights, NY, USA:73.77:41.33
+Yosemete National Park, CA, USA:119.58:37.75
+Yoshkar-Ola, Mari, Russia:-47.90:56.63
+Youngstown, OH, USA:80.65:41.10
+Yuba City, CA, USA:121.63:39.13
+Yucca Flat, NV, USA:116.00:37.00
+Yuma, AZ, USA:114.62:32.72
+Yuma, CO, USA:102.83:40.13
+Yuzhno-Sakhalinsk, Sakhalin, Russia:-142.75:46.97
+Zacatecas, Zacatecas, Mexico:102.57:22.82
+Zadar, Croatia:-15.23:44.13
+Zagreb, Croatia:-15.97:45.82
+Zahiah, Lebanon:-35.83:33.87
+Zamboanga, Mindanao, Philippines:-122.08:6.90
+Zanesville, OH, USA:82.01:39.94
+Zanzibar, Tanzania:-39.20:-6.20
+Zaporozhe, Ukraine:-35.17:47.84
+Zaragoza, Spain:1.05:41.67
+Zhambyl (Dzhambul), Kazakhstan:-71.42:42.83
+Zhangaqazaly (Novokazalinsk), Kazakhstan:-62.10:45.80
+Zilina, Slovakia:-18.70:49.20
+Znojmo, Czech Republic:-16.03:48.83
+Zurich, Switzerland:-8.53:47.37
+Zwickau, Germany:-12.50:50.70
+den Hague (s-Gravenhage), Netherlands:-4.27:52.08

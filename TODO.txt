@@ -1,0 +1,7 @@
+# TODO:
+
+* LoadString conversion (mostly done)
+* Maybe installer? (Delegates key)
+* Brightness (linear inc/dec from 100)
+* Transitions hinicky on M1
+* HTML help
