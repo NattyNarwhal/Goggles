@@ -24,7 +24,7 @@ applying the appropriate multiplier.
 
 ## Graphics devices tested
 
-Since we use SetDeviceGammaGamp, it depends on driver support. I have tested
+Since we use SetDeviceGammaRamp, it depends on driver support. I have tested
 the application on the following graphics devices and they work:
 
 * 3dfx Voodoo 3
