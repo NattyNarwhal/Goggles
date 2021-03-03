@@ -1,0 +1,32 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+HCW=0
+COMPRESS=12 Hall Zeck
+LCID=0x1009 0x0 0x0 ;English (Canadian)
+REPORT=Yes
+FTS=1
+TITLE=Goggles Help
+CNT=.\goggles.cnt
+COPYRIGHT=By Calvin Buckley
+HLP=.\Goggles.hlp
+
+[FILES]
+.\goggles.rtf
+
+[MAP]
+about_goggles=1               ; About Goggles
+compat=2        ; Notes on Compatibility
+configuration_dialog=3              ; Configuration Dialog
+export_gamma=4              ; Export Gama
+IDH_CONFIG_EXTEND_RANGE=105           ; Extend Range
+IDH_CONFIG_FIND_CITY=103        ; Find City
+IDH_CONFIG_HOTKEYS=104              ; Hotkeys
+IDH_CONFIG_INTERVAL=102               ; Interval
+IDH_CONFIG_LATLONG=100              ; Latitude/Longitude
+IDH_CONFIG_TEMP=101           ; Temperature
+IDH_HOTKEYS=201               ; Keyboard Shortcuts
+IDH_SUNSET_SUNRISE=200              ; Sunset and Sunrise
+
+[WINDOWS]
+Main="",(7,7,256,256),20736,(r14876671),(r12632256),f2

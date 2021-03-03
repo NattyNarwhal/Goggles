@@ -1,0 +1,9 @@
+:Base goggles.hlp
+:Title Goggles
+1 About Goggles=about_goggles
+1 Keyboard Shortcuts=IDH_HOTKEYS
+1 Notes on Compatibility=compat
+1 Dialogs and Menu Items
+2 Configuration Dialog=configuration_dialog
+2 Export Gamma=export_gamma
+2 Sunrise and Sunset=IDH_SUNSET_SUNRISE
